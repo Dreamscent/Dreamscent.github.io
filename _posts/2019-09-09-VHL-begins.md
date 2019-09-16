@@ -16,7 +16,7 @@ tags:
 
 [VirtualHackingLabs](https://www.virtualhackinglabs.com) is touted as a close copy of the PWK labs by Offensive Security. In my journey for the OSCP certification, I signed up for 3 months of lab access. I actually only plan to use 1 month of it, but that's a story for another time.
 
-Initial impressions were good, the lab materials provided was 370 pages of reasonably high quality material. In the coming Weeks I will post some updates on my progress and my thoughts on the overall experience.
+Initial impressions were good, the lab materials provided was 370 pages of reasonably high quality material. In the coming weeks I will post some updates on my progress and my thoughts on the overall experience.
 
 As of the date of posting, the labs contain a total of 41 Machines:
 
