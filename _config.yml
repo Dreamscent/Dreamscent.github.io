@@ -13,6 +13,7 @@ disqus_account:
 github_repository: https://github.com/Dreamscent
 addthis_id: wtfisthisfor
 post_limit: 5
+timezone: Asia/Singapore
 
 # Social usernames/URLs
 twitter_username: 
