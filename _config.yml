@@ -1,10 +1,12 @@
 # Site settings
-title: "0x4a"
+title: "Lorem Ipsum"
 email: testing@email
-description: ""
+description: "Hey look a description!"
 baseurl: ""
 url: "https://0x4a.github.io"
-title_description: "A random collection of writeups, reviews, and rambling about the secrets of the universe and whatnot."
+title_description: "A random collection of writeups, reviews, and rarambling about the secrets of the universe and whatnot.
+testing linebreak
+testing another linebreak"
 title_image: "/J.jpg"
 google_analytics: "UA-148080186-1"
 disqus_account: 
