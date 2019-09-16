@@ -1,11 +1,11 @@
 # Site settings
 title: "J"
-email: Dreamscent@live.com
-description: "this is some description"
+email: testing@email
+description: "This is a description"
 baseurl: ""
 url: "https://0x4a.github.io"
 title_description: "this is title description"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "/test"
 google_analytics: ""
 disqus_account: 
 github_repository: https://github.com/Dreamscent
