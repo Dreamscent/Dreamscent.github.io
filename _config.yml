@@ -4,10 +4,7 @@ email: testing@email
 description: "Hey look a description!"
 baseurl: ""
 url: "https://0x4a.github.io"
-title_description: "A random collection of writeups, reviews, and ramblings about the secrets of the universe and whatnot. Don't take me too seriously :)
-testing linebreak
-
-testing another linebreak"
+title_description: "A random collection of writeups, reviews, and ramblings about the secrets of the universe and whatnot. Don't take me too seriously :) <br> linebreak?"
 title_image: "https://lh3.googleusercontent.com/eXsyQ_QRLOF-QOatofxdV0IJ0QLBh29yqB_i73SOnzxBAEo4FMY5McQUYF5AMRv9PpG8RjBtET6jgd74PWwK6MaQSGuKQT8frwSWm4WDgAfbfU0OO763ki--Ijet50MAqRC1ZT0l-ThAzfEwKVAAPjaeGdly75ua_2QvCAss91hiV-T1bD05tbErF7COH0_xaa_px1XWhFmkXpo_FHkzcltbKv7Ko_B0mxUvk2qnagfLQUKq7Rk-O4vj8Hemu5dVCZkLPmoeyr8cgF4WIS7c8qsb7qHT3vRjnZ11BLWHpklWTbx6PijEcOR8S6snCAjwCoyDh1aHLGCARAqYCiDPXQ9UGOf1DlmaNn7lplTd9Z4wO1hVVyPPSWcbiqNkDQpVPEOniG6Hlo_PcJBV3smIq8ZeGTNjMQXU_PO5rqhjudPMBkohceVMyGchXYmkob6QtjOIaPe0YXbae44dk5Yppd9rXF9guWSRUM0bcZis1q57fSHNLkzdAttgdLDL4OiKeyewKedm6c-h34vPh_CmWFmE1b9_L2pW9kfeWaBaNlB8whkEX_pB5o8MvaLEy9p_FrosBApT_s-2ljIvpCIw9OgTaaVrX2njUHu8OO7TtOwTTfaT__KefdlL7L5UYarmuZO0rLfT847RFWorzzTsVR2xJDZ7MPfF4OcSRKnqtcdqvUdeecq2uBM=s100-no"
 google_analytics: "UA-148080186-1"
 disqus_account: 
