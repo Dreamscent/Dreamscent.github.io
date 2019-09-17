@@ -11,6 +11,9 @@ tags:
  - HackTheBox
 ---
 
-HA! Box hasn't retired. This is just a placeholder and for my experimentation with github pages
+HA! Box hasn't retired. This is just a placeholder and for my experimentation with github pages.
 
 ![Troll](/images/troll.gif)
+
+
+In other news, I have prepared the walkthrough for Jarvis and will share it when it gets retired.
