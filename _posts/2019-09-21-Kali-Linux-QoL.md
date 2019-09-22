@@ -18,6 +18,7 @@ This post will be updated once in a blue moon. Just wanted to share some of my s
 
 ## PHP Reverse Shell Generator
 
+
 This particular script is for generating a PHP reverse shell with IP address and port preconfigured in the current working directory. This is particularly useful if you find that your IP address has changed due to changing VPNs or just that a new one was issued to you when reconnecting. 
 
 To use, just append it to your `.bashrc` file in your user's home directory and restart your terminal. The original script can be found on [Pentestmonkey here][1]. Replace the ip address in the script to 'ipaddress' and set the port to 443.
@@ -57,6 +58,7 @@ cat rev.php | xclip -sel clip
 ---
 
 ## Bash Aliases
+
 
 Sometimes you have many folders that you need to navigate quickly, or long commands that you type. These can be shortened, saving lots of time and gives great convenience in the long run. This is a sample of what I have inside my `/root/.bash_aliases` file. If you don't have it. After adding aliases in, restart your terminal.
 
