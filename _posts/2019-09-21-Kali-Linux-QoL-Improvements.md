@@ -23,7 +23,7 @@ This post will be updated once in a blue moon. Just wanted to share some stuff w
 
 This particular script is for generating a PHP reverse shell with IP address and port preconfigured in the current working directory. This is particularly useful if you find that your IP address has changed due to changing VPNs or just that a new one was issued to you when reconnecting. It works by creating a copy of Pentestmonkey's PHP Reverse Shell script into the current working directory, and changing the backconnect IP and Port to one of your choosing. This script is preloaded in Kali Linux somewhere(do a `/locate php-reverse-shell.php` to find it), but you can also just do a fresh download.
 
-To use, just append it to your `.bashrc` file in your user's home directory and restart your terminal(Don't forget to change the script directory!). The original script can be found on [Pentestmonkey here][1]. Replace the ip address in the script to 'ipaddress' and set the port to 443.
+To use, just append it to your `.bashrc` file in your user's home directory and restart your terminal(Don't forget to change the script directory!). The original script can be found on Pentestmonkey [here][1]. Replace the ip address in the script to 'ipaddress' and set the port to 443.
 
 Alternatively, you can download the [pre-modified version on my Github][2] to use with this script. Change the directory in the script to where you saved the script to.
 
