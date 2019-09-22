@@ -60,7 +60,7 @@ cat rev.php | xclip -sel clip
 ## Bash Aliases
 
 
-Sometimes you have many folders that you need to navigate quickly, or long commands that you type. These can be shortened, saving lots of time and gives great convenience in the long run. This is a sample of what I have inside my `/root/.bash_aliases` file. If you don't have it. After adding aliases in, restart your terminal.
+Sometimes you have many folders that you need to navigate quickly, or long commands that you type. These can be shortened, saving lots of time and gives great convenience in the long run. This is a sample of what I have inside my `/root/.bash_aliases` file. If you don't have it, just create it. After adding aliases in, restart your terminal.
 
 ~~~bash
 # Directories
