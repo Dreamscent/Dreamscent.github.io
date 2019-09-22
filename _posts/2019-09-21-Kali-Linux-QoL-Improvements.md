@@ -25,7 +25,7 @@ This particular script is for generating a PHP reverse shell with IP address and
 
 To use, just append it to your `.bashrc` file in your user's home directory and restart your terminal(Don't forget to change the script directory!). The original script can be found on Pentestmonkey [here][1]. Replace the ip address in the script to 'ipaddress' and set the port to 443.
 
-Alternatively, you can download the [pre-modified version on my Github][2] to use with this script. Change the directory in the script to where you saved the script to.
+Alternatively, you can download the [modified version on my Github][2] to use with this script. Change the directory in the script to where you saved the script to.
 
 Usage: `phprev <Interface> <Optional: Listening Port>`
 <br>e.g. `phprev tun0 1234`
@@ -85,6 +85,7 @@ alias hosts='nano /etc/hosts'
 alias tun0='ifconfig tun0 | head -n2'
 alias ppp0='ifconfig ppp0 | head -n2'
 alias pyhttp='python -m SimpleHTTPServer'
+alias clip='xclip -sel clip'
 ~~~
 
 [1]: http://pentestmonkey.net/tools/web-shells/php-reverse-shell
