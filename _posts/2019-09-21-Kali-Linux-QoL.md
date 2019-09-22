@@ -80,8 +80,6 @@ alias ovpn='openvpn ~/0x4a/Hackthebox/openvpn/Dreamscent.ovpn'
 alias hosts='nano /etc/hosts'
 alias tun0='ifconfig tun0 | head -n2'
 alias ppp0='ifconfig ppp0 | head -n2'
-
-# Exploit
 alias pyhttp='python -m SimpleHTTPServer'
 ~~~
 
