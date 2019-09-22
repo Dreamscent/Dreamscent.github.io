@@ -11,7 +11,7 @@ tags:
  - Kali
 ---
 
-This post will be updated once in a blue moon. Just wanted to share some of my stuff which I use as I think it's good to automate certain processes when hacking boxes. Life's too short to be repeating stuff all the time.
+This post will be updated once in a blue moon. Just wanted to share some of my stuff which I use as I think it's good to automate certain repeated processes when hacking boxes. Life's too short to be wasting time on such things.
 
 
 ## PHP Reverse Shell Generator
