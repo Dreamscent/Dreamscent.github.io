@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Kali Linux QoL
+title:      Kali Linux QoL Improvements
 date:       2019-09-21 15:20:20
 author:     J
 summary:    Life's too short
