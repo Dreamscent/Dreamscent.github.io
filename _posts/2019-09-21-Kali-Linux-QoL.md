@@ -22,7 +22,7 @@ To use, just append it to your `.bashrc` file in your user's home directory and 
 
 Alternatively, you can download the [pre-modified version on my Github][2] to use with this script. Change the directory in the script to where you saved the script to.
 
-Usage: `phprev <Interface> <Optional: Listening Port>`
+Usage: `phprev <Interface> <Optional: Listening Port>` *defaults to port 443 if not specified*
 <br>e.g. `phprev tun0 1234`
 
 
