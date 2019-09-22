@@ -16,7 +16,7 @@ This post will be updated once in a blue moon. Just wanted to share some of my s
 
 ## PHP Reverse Shell Generator
 
-This particular script is for generating a PHP reverse shell. Just append it to your `.bashrc` file in your user's home directory and restart your terminal to use. The original script can be found on [Pentestmonkey here][1]. Just replace the ip address to 'ipaddress' and set the port to 443.
+This particular script is for generating a PHP reverse shell with IP address and port preconfigured in the current working directory. This is particularly useful if you find that your IP address has changed due to changing VPNs or just that a new one was issued to you when reconnecting. Just append it to your `.bashrc` file in your user's home directory and restart your terminal to use. The original script can be found on [Pentestmonkey here][1]. Just replace the ip address to 'ipaddress' and set the port to 443.
 Alternatively, you can download the [pre-modified version on my Github][2] to use with this script. Change the directory in the script to where you saved the script to.
 
 Usage: `phprev <Interface> <Optional: Listening Port>`
