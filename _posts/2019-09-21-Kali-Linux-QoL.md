@@ -56,5 +56,34 @@ cat rev.php | xclip -sel clip
 
 ---
 
+## Bash Aliases
+
+Sometimes you have many folders that you need to navigate quickly, or long commands that you type. These can be shortened, saving lots of time and gives great convenience in the long run. This is a small sample of what I have inside my `/root/.bash_aliases` file. If you don't have it. After adding aliases in, restart your terminal.
+
+~~~bash
+# Directories
+
+alias htb='cd ~/0x4a/Hackthebox'
+alias vhl='cd ~/0x4a/VirtualHackingLabs'
+alias pwk='cd ~/0x4a/PWK'
+alias scripts='cd ~/Try-Harder/Scripts'
+alias linenum='cd ~/Try-Harder/Scripts/Linux-PrivEsc'
+alias hostlse='cd ~/Try-Harder/Scripts/Linux-PrivEsc && python -m SimpleHTTPServer'
+alias armoury='cd ~/The-Armoury'
+
+# vpn
+
+alias ovpn='openvpn ~/0x4a/Hackthebox/openvpn/Dreamscent.ovpn'
+
+# Other
+
+alias hosts='nano /etc/hosts'
+alias tun0='ifconfig tun0 | head -n2'
+alias ppp0='ifconfig ppp0 | head -n2'
+
+# Exploit
+alias pyhttp='python -m SimpleHTTPServer'
+~~~
+
 [1]: http://pentestmonkey.net/tools/web-shells/php-reverse-shell
 [2]: https://github.com/Dreamscent/Try-Harder/blob/master/Scripts/Shells/php-reverse-shell.php
