@@ -12,7 +12,7 @@ tags:
  - PHP Reverse Shell
 ---
 
-This post will be updated once in a blue moon. Just wanted to share some of my stuff which I use as I think it's good to automate certain repeated processes when hacking boxes. Life's too short to be wasting time on such things.
+This post will be updated once in a blue moon. Just wanted to share some stuff which I use because I think it's good to automate certain repeated processes when hacking boxes. Life's too short to be wasting time on such things.
 
 ---
 
