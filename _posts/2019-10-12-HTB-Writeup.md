@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "HackTheBox: Writeup"
-date:       2019-12-10 00:00:00
+date:       2019-10-12 00:00:00
 author:     J
-summary:    Stfu and listen
+summary:    Get Hijacked
 categories: HackTheBox
 thumbnail:  cube
 tags:
