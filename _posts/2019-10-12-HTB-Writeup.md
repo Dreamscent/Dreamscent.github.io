@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      HackTheBox: Writeup
+title:      "HackTheBox: Writeup"
 date:       2019-12-10 00:00:00
 author:     J
 summary:    Stfu and listen
