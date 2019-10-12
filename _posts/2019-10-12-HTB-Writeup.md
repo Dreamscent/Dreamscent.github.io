@@ -37,14 +37,6 @@ nmap -sC -sV -p- -oN nmap 10.10.10.138
 ~~~
 
 
-![1570845242596](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570845242596.png)
-
-
-
-or
-
-
-
 ~~~bash
 # Nmap 7.70 scan initiated Sat Jul  6 06:11:55 2019 as: nmap -sC -sV -p- -oN nmap 10.10.10.138               
 Nmap scan report for writeup (10.10.10.138)
