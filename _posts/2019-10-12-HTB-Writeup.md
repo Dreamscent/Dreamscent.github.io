@@ -174,6 +174,8 @@ We could try cracking it, but since it's salted we probably would not have any l
 
 We can assume  that the first part containing gibberish is the salt, and password is `raykayjay9`. Give and take a little. We also know that the username was `jkr`. Now we just have to find somewhere these credentials can be used.
 
+Edit: Apparently the password cracking feature of this exploit script can also be used to crack the password with the Rockyou.txt wordlist. Thanks to RS for this insight!
+
 
 
 In the initial nmap scan, we found out that SSH was open, so can try it there:
