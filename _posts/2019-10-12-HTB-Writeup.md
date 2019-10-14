@@ -227,7 +227,7 @@ First, let's upload `pspy` onto the target. We download a precompiled `pspy` bin
 
 
 
-We can then use `wget` to download the file onto the target. Don't forget to `cd` into a directory we can write into. Here is use `/tmp`. Once you have it downloaded, set it to executable with `chmod +x` and execute it.
+We can then use `wget` to download the file onto the target. Don't forget to `cd` into a directory we can write into. Here I use `/tmp`. Once you have it downloaded, set it to executable with `chmod +x` and execute it.
 
 
 
@@ -307,7 +307,9 @@ For reference, this was what the $PATH variable was set to as shown by the `pspy
 
 
 
-> sh -c /usr/bin/env -i PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+~~~
+sh -c /usr/bin/env -i PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+~~~
 
 
 
