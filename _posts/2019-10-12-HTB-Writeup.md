@@ -205,10 +205,6 @@ In the initial nmap scan, we found out that SSH was open, so can try it there:
 My usual enumeration script `lse.sh` did not return anything, of interest. No cronjobs, no SUID, no sudo privileges. So it was likely a hidden configuration or a password hidden in a file somewhere. Hackthebox typically does not use Kernel exploits for Root, so we can rule them out.
 
 
-
-There was this phrase on the Kali Linux website somewhere which seems applicable here:
-
-
 In some cases, there may be cronjobs or scheduled tasks running  on the server but are not listed when you run your enumeration scripts. These may be because of a lack of permissions. To get around this, we can run [pspy][3]. This binary when run, will show all events happening in real time.
 
 
