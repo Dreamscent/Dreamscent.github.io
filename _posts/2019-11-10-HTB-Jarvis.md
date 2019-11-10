@@ -18,7 +18,7 @@ Jarvis was a really satisfying box to root, in the sense that it's not too CTF-i
 
 
 
-Anyone who knows me personally would know that I dislike CTF style boxes where you have really annoying key pieces of the puzzle hidden in strange places like within an image(lol it's currently on a live box, I may make a post on that box if time permits).
+Anyone who knows me personally would know that I dislike CTF style boxes where you have really annoying key pieces of the puzzle hidden in strange places like within an image(lol it's currently on a recently retired box). This will be the last HTB writeup for a while as I will begin working on certifications.
 
 
 
