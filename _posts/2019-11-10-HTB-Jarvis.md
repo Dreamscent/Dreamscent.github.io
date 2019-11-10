@@ -14,16 +14,16 @@ tags:
 
 
 
-Jarvis was a really satisfying box to root, in the sense that it's not too CTF-ish and had an initial foothold method that allowed me to learn something new. It is rated as a Medium difficulty box and I feel that it's slightly on the easier side of that spectrum.
+Jarvis was a really satisfying box to root, in the sense that it's not too CTF-ish and had an initial foothold method that allowed me to learn something new. It is rated as a Medium difficulty box and I feel that it's slightly on the easier side of that spectrum. This will be the last HTB writeup for a while as I will begin working on certifications.
 
 
+Anyone who knows me personally would know that I dislike CTF style boxes where you have really annoying key pieces of the puzzle hidden in strange places like within an image(lol it's currently on a recently retired box). Anyway, here is the information on the box we're tackling today:
 
-Anyone who knows me personally would know that I dislike CTF style boxes where you have really annoying key pieces of the puzzle hidden in strange places like within an image(lol it's currently on a recently retired box). This will be the last HTB writeup for a while as I will begin working on certifications.
+
 
 
 
 ![1568728913954](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568728913954.png)
-
 
 
 
