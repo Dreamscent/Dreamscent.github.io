@@ -50,12 +50,6 @@ nmap -sV -sC -p- oN nmap 10.10.10.143
 
 
 
-* can remove
-
-![1568723653107](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568723653107.png)
-
-
-
 ~~~bash
 # Nmap 7.70 scan initiated Wed Jul  3 07:52:10 2019 as: nmap -sV -sC -p- -oN nmap jarvis
 Nmap scan report for jarvis (10.10.10.143)
