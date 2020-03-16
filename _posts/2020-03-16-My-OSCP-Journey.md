@@ -234,7 +234,7 @@ Was I proud of my accomplishment? Yes definitely. Unlike the stories going aroun
 
 
 
-Did I perform up to my own expectations? Yes and no. I definitely was glad I did well, but also am very disappointed in myself  for taking too long overall. After successfully getting all 100 pts for the exam, I realised that I could have been so much faster and more efficient in my exploitation. Ideally it could have been done in about 16 hours perhaps; I shouldn't have had to stay up the entire 24 hours.s
+Did I perform up to my own expectations? Yes and no. I definitely was glad I did well, but also am very disappointed in myself  for taking too long overall. After successfully getting all 100 pts for the exam, I realised that I could have been so much faster and more efficient in my exploitation. Ideally it could have been done in about 16 hours perhaps; I shouldn't have had to stay up the entire 24 hours.
 
 
 
