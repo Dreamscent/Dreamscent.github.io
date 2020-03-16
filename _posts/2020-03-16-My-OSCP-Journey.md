@@ -29,7 +29,7 @@ This section is to give you a rough baseline of who I am and what I already knew
 
 ### My job
 
-I am currently holding a full time job doing performing Cybersecurity roles in the little sunny(and sometimes rainy) island of Singapore. I have been in this field for 1.5 years at the time of writing. My specialisation lies in Penetration Testing, Incident Response and Threat Hunting.
+I am currently holding a full time Cybersecurity role in the little sunny(and sometimes rainy) island of Singapore. I have been in this field for 1.5 years at the time of writing. My specialisation lies in Penetration Testing, Incident Response and Threat Hunting.
 
 
 
