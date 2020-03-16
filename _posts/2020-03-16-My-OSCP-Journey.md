@@ -4,7 +4,7 @@ title:      "My OSCP Journey"
 date:       2020-03-16 15:20:02
 author:     J
 summary:    I Tried Harder
-categories: OSCP
+categories: Offensive Security
 thumbnail:  certificate
 tags:
  - OSCP
