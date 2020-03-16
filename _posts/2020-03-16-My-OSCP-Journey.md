@@ -56,11 +56,13 @@ All in all, I had exploited and rooted at least 50-60 machines prior to starting
 
 ## The PWK Course
 
-My purchased 2 month course started somewhere in the first week of February. But for the first 2 weeks there was not much done in the labs. People knowing me in real life would know why. Worth it, I'd say ;) I immediately scheduled my first exam attempt 1 month into the course. I didn't expect anything out of it, but just wanted to test myself and get a feel for the exam. If I failed I'd have another month of labs to practice before attempting the exam again.
+My purchased 2 month course started somewhere in the first week of February. But for the first 2 weeks there was not much done in the labs. People knowing me in real life would know why. Worth it, I'd say ;)
+
+I immediately scheduled my first exam attempt 1 month into the course. I didn't expect anything out of it, but just wanted to test myself and get a feel for the exam. If I failed I'd have another month of labs to practice before attempting the exam again.
 
 The 2 weeks prior to the exam was where I really started playing in the labs, I had taken time off work to focus on preparing for the exam. I also spent about 2 entire days familiarising myself with Buffer Overflows and Windows Privilege Escalation from various guides. The latter was a major weakness for myself and most people I know.
 
-All in all, I actually only spent 2 weeks working on the labs.
+All in all, I actually only spent about 2 weeks working on the labs.
 
 
 
@@ -78,7 +80,7 @@ Based on information publicly shared on the internet, the point values of the ma
 
 
 
-The highest possible total point value is *100*. To pass the exam, you need a minimum of *70* points. *5* bonus points may be awarded if you submit labs reports with your exam report submission.
+The highest possible total point value is *100*. To pass the exam, you need a minimum of *70* points. *5* bonus points may be awarded if you submit your lab report with your exam report submission.
 
 
 
