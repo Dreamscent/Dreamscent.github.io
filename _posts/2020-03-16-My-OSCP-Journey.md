@@ -41,7 +41,7 @@ I graduated with a Bachelor's Degree from the University of Portsmouth studying 
 
 ### Related activities, courses and certiffications prior to the OSCP
 
-I currently hold the Certified Ethical Hacker (CEH) certification from the EC-Council. Approximately 6 months prior to starting my [Penetration Testing with Kali][1] (PWK) course, I was playing around on [Vulnhub][2], and [Hackthebox][3], achieve "Hacker" rank on the latter. Also, I enrolled for the [VirualHackingLabs][4] course and obtained both their Basic Completion and Advanced+ certifications.
+I currently hold the Certified Ethical Hacker (CEH) certification from the EC-Council. Approximately 6 months prior to starting my [Penetration Testing with Kali (PWK)][1] course, I was playing around on [Vulnhub][2], and [Hackthebox][3], achieving "Hacker" rank on the latter. Also, I enrolled for the [VirualHackingLabs][4] course and obtained both their Basic Completion and Advanced+ certifications.
 
 
 
@@ -231,7 +231,7 @@ Was I proud of my accomplishment? Yes definitely. Unlike the stories going aroun
 
 
 
-Did I perform up to my own expectations? Yes and no. I definitely was glad I did well, but also am very disappointed in myself  for taking too long overall. After successfully getting all 100 pts for the exam, I realised that I could have been so so much faster and more efficient in my exploitation. Ideally it could have been done in about 16 hours perhaps; I shouldn't have had to stay up the entire 24 hours.
+Did I perform up to my own expectations? Yes and no. I definitely was glad I did well, but also am very disappointed in myself  for taking too long overall. After successfully getting all 100 pts for the exam, I realised that I could have been so much faster and more efficient in my exploitation. Ideally it could have been done in about 16 hours perhaps; I shouldn't have had to stay up the entire 24 hours.s
 
 
 
