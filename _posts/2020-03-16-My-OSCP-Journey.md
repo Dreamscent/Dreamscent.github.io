@@ -40,9 +40,9 @@ I graduated with a Bachelor's Degree from the University of Portsmouth studying 
 
 
 
-### Related activities, courses and certiffications prior to the OSCP
+### Related activities, courses and certifications prior to the OSCP
 
-I currently hold the Certified Ethical Hacker (CEH) certification from the EC-Council. Approximately 6 months prior to starting my [Penetration Testing with Kali (PWK)][1] course, I was playing around on [Vulnhub][2], and [Hackthebox][3], achieving "Hacker" rank on the latter. Also, I enrolled for the [VirualHackingLabs][4] course and obtained both their Basic Completion and Advanced+ certifications.
+I currently hold the Certified Ethical Hacker (CEH) certification from EC-Council. Approximately 6 months prior to starting my [Penetration Testing with Kali (PWK)][1] course, I was playing around on [Vulnhub][2], and [Hackthebox][3], achieving "Hacker" rank on the latter. Also, I enrolled for the [VirualHackingLabs][4] course and obtained both their Basic Completion and Advanced+ certifications.
 
 
 
@@ -168,7 +168,7 @@ I have worked for 10 hours straight so far. If I were to go to sleep and get som
 
 
 
-**1223am** - Managed to escalate the second 20 pt one. At this point I had 75 points and had passed the exam! However, I spent time revisiting my notes and screenshots to make sure I did not miss any steps. Documentation is crucial for this examination, and they have been stories of people failing exams due to insufficient documentation, despite performing well and getting more than enough points.
+**12.23am** - Managed to escalate the second 20 pt one. At this point I had 75 points and had passed the exam! However, I spent time revisiting my notes and screenshots to make sure I did not miss any steps. Documentation is crucial for this examination, and they have been stories of people failing exams due to insufficient documentation, despite performing well and getting more than enough points.
 
 
 
@@ -176,7 +176,7 @@ I have worked for 10 hours straight so far. If I were to go to sleep and get som
 
 
 
-**1.00am** - I finished confirming that I had the screenshots I needed. I had just below 6 hours left on my exam time and was about to tell the proctors to end my exam. But I decided, hey since I'm energised from having eaten some food, let's try and tickle last 25 point box for a bit. I had visited this box countless times since the start of the exam but there was nothing at all that I could find on it. Nada. Nope. Nothing.
+**1.00am** - I finished confirming that I had the screenshots I needed. I had just below 6 hours left on my exam time and was about to tell the proctors to end my exam. But I decided, hey since I'm energised from having eaten some food, let's try and tickle the last 25 point box for a bit. I had visited this box countless times since the start of the exam but there was nothing at all that I could find on it. Nada. Nope. Nothing.
 
 It was one heck of a box to get into. But hey, no harm trying anyway since there's nothing to lose except sleep at this point.  If I felt tired, I would call it a day.
 
