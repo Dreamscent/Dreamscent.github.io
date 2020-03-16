@@ -106,9 +106,9 @@ Further exam information can be found on the official site [here][6].
 
 
 
-- Start all my scans on the target and then proceed to do the Buffer Overflow machine. By the time I was done, I should have some results to work with.
+- Start all my scans on all targets and then proceed to do the Buffer Overflow machine. By the time I was done, I should have some results to work with.
 
-- I would scan through all 4 machines and picked any low hanging fruit that I could start with. When there were no fruits left to pick, I would move on to another machine. I did not put a specific time on how long I should spend on each machine before deciding to move on and cycle through them. I just did it by feel and not a hard timer.
+- I would look through scan results and pick any low hanging fruit that I could start with. When there were no fruits left to pick, I would move on to another machine. I did not put a specific time on how long I should spend on each machine before deciding to move on and cycle through them. I just did it by feel and not a hard timer.
 
 - I  planned to take a short nap, but not a full 6-8 hour sleep. But if I would only do this when I feel tired or sleepy, or when I feel like it was getting hard to keep my focus.
 
