@@ -35,7 +35,7 @@ I am currently holding a full time job doing performing Cybersecurity roles in t
 
 ### My educational background
 
-I graduated with a Bachelor's Degree from the University of Portsmouth studying Digital Forensics. As with many IT related courses, there was a heavy emphasis on cybersecurity in it.
+I graduated with a Bachelor's Degree from the University of Portsmouth studying Digital Forensics. As with many IT related courses, there was a heavy emphasis on cybersecurity in it. I have over the course of this degree created vulnerable applications for exploitation, as well as touched on assembly level debugging for Malware Forensics.
 
 
 
