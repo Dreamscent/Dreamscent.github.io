@@ -226,7 +226,7 @@ It was one heck of a box to get into. But hey, no harm trying anyway since there
 
 
 
-I submitted my report in the dead of the morning at on the 9th of March just a few hours before the deadline and got the email from Offensive Security a week later confirming my passing grade and awarding me my certification.
+I submitted my report in the dead of the morning  on the 9th of March just a few hours before the deadline and got the email from Offensive Security a week later confirming my passing grade and awarding me my certification.
 
 
 
