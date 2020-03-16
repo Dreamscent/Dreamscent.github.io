@@ -1,14 +1,16 @@
 ---
 layout:     post
 title:      "My OSCP Journey"
-date:       2020-03-16 00:00:00
+date:       2020-03-16 15:20:02
 author:     J
 summary:    I Tried Harder
-categories: OSCP
+categories: Offensive Security
 thumbnail:  certificate
 tags:
  - OSCP
  - Exam
+ - PWK
+ - Offensive Security
 ---
 
 
@@ -39,7 +41,7 @@ I graduated with a Bachelor's Degree from the University of Portsmouth studying 
 
 ### Related activities, courses and certiffications prior to the OSCP
 
-I currently hold the Certified Ethical Hacker (CEH) certification from the EC-Council. Approximately 6 months prior to starting my [Penetration Testing with Kali][1] (PWK) course, I was playing around on [Vulnhub][2], and [Hackthebox][3]. Also, I enrolled for the [VirualHackingLabs][4] course and obtained both their Basic Completion and Advanced+ certifications.
+I currently hold the Certified Ethical Hacker (CEH) certification from the EC-Council. Approximately 6 months prior to starting my [Penetration Testing with Kali][1] (PWK) course, I was playing around on [Vulnhub][2], and [Hackthebox][3], achieve "Hacker" rank on the latter. Also, I enrolled for the [VirualHackingLabs][4] course and obtained both their Basic Completion and Advanced+ certifications.
 
 
 
@@ -55,7 +57,7 @@ All in all, I had exploited and rooted at least 50-60 machines prior to starting
 
 My purchased 2 month course started somewhere in the first week of February. But for the first 2 weeks there was not much done in the labs. People knowing me in real life would know why. Worth it, I'd say ;) I immediately scheduled my first exam attempt 1 month into the course. I didn't expect anything out of it, but just wanted to test myself and get a feel for the exam. If I failed I'd have another month of labs to practice before attempting the exam again.
 
-The 2 weeks prior to the exam was where I really did my labs, I had taken time off work to focus on preparing for the exam. I also spent about 2 entire days familiarising myself with Buffer Overflows and Windows Privilege Escalation from various guides. The latter was a major weakness for myself and most people I know.
+The 2 weeks prior to the exam was where I really started playing in the labs, I had taken time off work to focus on preparing for the exam. I also spent about 2 entire days familiarising myself with Buffer Overflows and Windows Privilege Escalation from various guides. The latter was a major weakness for myself and most people I know.
 
 All in all, I actually only spent 2 weeks working on the labs.
 
@@ -103,7 +105,7 @@ Further exam information can be found on the official site [here][6].
 
 - Start all my scans on the target and then proceed to do the Buffer Overflow machine. By the time I was done, I should have some results to work with.
 
-- I would scan through all 4 machines and picked any low hanging fruit that I could start with. When there were no fruits left to pick, I would move on to another machine. I did not put a specific time on how long I should spend on each machine before deciding to move on and cycle through them.
+- I would scan through all 4 machines and picked any low hanging fruit that I could start with. When there were no fruits left to pick, I would move on to another machine. I did not put a specific time on how long I should spend on each machine before deciding to move on and cycle through them. I just did it by feel and not a hard timer.
 
 - I  planned to take a short nap, but not a full 6-8 hour sleep. But if I would only do this when I feel tired or sleepy, or when I feel like it was getting hard to keep my focus.
 
