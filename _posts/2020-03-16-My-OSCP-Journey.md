@@ -209,7 +209,7 @@ It was one heck of a box to get into. But hey, no harm trying anyway since there
 1. If you're not very confident, do your lab report. As mentioned, it's extremely possible that you end up with a score where that 5 extra points will get you that OSCP certification. Otherwise, just know that failure is a chance to learn
 2. Don't keep on the same machine for too long. Rotate and cycle through.
 3. Understand your buffer overflows. It's alright to just be able to replicate the common steps for a basic buffer overflow, but if shit happens, this knowledge can help you to debug more effectively.
-4. Manage your time properly. If you need a rest, do it. Just because I didn't doesn't mean you shouldn't either. I could hold my focus for that 24 hours. But not everybody can.
+4. Manage your time properly. If you need a rest, do it. Just because I didn't doesn't mean you shouldn't either. I could maintain my focus for that 24 hours. But not everybody can.
 5. The report takes time! Possibly more than you might expect. Make sure you have factored that in if you're having commitments the day after your exam.
 6. Acquisition rate of points is not linear. For example, if you gained 60 points in 12 hours(20pts per 4 hours), don't assume that you'll pass by spending another 2-4 hours and end up taking too long a sleep/rest. Also remember that the 25 pt buffer overflow box is known by many as a "freebie". People have also gone over 10 hours without making any progress at all, and it's common.
 7. Rabbit Holes are there, as usual. If something doesn't work for too long, try something else; but take note of it. You can always try again later.
@@ -217,7 +217,7 @@ It was one heck of a box to get into. But hey, no harm trying anyway since there
 9. Take notes and screenshots during the exam. Lots of them. I like [cherrytree][8] for this, but OneNote works nice too. If anything even remotely looks like progress, document it immediately, lest you end up forgetting how you did it later. Copy and paste your commands, you may have to keep typing them again and again.
 10. Automate stuff. Scripts are out there to help you automate enumeration. Feel free to reach out to me to ask what think about some of them, or if you need recommendations! But take note of the exam restrictions. As a rule of thumb, you may automate *enumeration* but not *exploitation*.
 11. Take the exam with integrity, if you cheat you're cheating yourself. If you can't do it, Try Harder.
-12. If you feel like giving up, again, Try Harder. Take a break and come back with a fresh mind.
+12. If you feel like giving up, again, Try Harder. Take a break and come back with a fresh mind, buy don't give up!
 13. I like coffee. I really do. Maybe you should have some too!
 
 
