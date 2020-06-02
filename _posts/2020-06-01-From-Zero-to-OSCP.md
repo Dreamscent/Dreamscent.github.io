@@ -12,7 +12,6 @@ tags:
  - PWK
  - Offensive Security
  - OffSec
-
 ---
 
 ## A foreword
