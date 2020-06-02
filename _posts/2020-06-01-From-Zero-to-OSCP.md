@@ -63,9 +63,7 @@ That being said, if you want to be truly good at it, and not just a walking cert
 
 
 
-Firstly, this OS will be your bread and butter, it comes with a boatload of tools, 95% of which you will not use. You will be provided with a prebuilt VM specially created and guaranteed to work with the course and exams. But for preparation, you may use the latest and greatest versions of this system.
-
-
+Firstly, this OS will be your bread and butter, it comes with a boatload of tools, 95% of which you will not require for the time being. You will be provided with a prebuilt VM specially created and guaranteed to work with the course and exams. But for preparation, you may use the latest and greatest versions of this system.
 
 If you're familiar with other flavours of Linux, feel free to use them, and install each of the individual tools you need on it. But for the rest of us who prefer a plug-and-play style, just install Kali.
 
@@ -91,7 +89,7 @@ What you need to know:
 
 
 
-Most of the tools you'll require are already installed on Kali. Cheers :)
+Most of the tools you'll require are already installed on Kali. Cheers :) If you find that you need anything else, you can use `apt-get install  <toolname>`.
 
 
 
@@ -336,9 +334,17 @@ These scripts will do very similar things, and you can't really go wrong with an
 
 
 
+---
 
 
-Till next time!
+
+That's all I have for you beautiful people for now. I wrote this guide within a single day and may have missed out a couple of things. I'll add a changelog below in case I decide to add stuff in here.
+
+
+
+This is a very difficult time for the world, stay safe!
+
+
 
 J
 
