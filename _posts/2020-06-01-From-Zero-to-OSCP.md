@@ -242,25 +242,23 @@ Don't have to read all, pick your favourite guide and stick to that. They all mo
 
 **Linux**:
 
-https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
-
-More good ones but this is known to many as the "bible" of linux privesc
+[g0tmi1k's basic linux privilege escalation guide](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - *There are more good ones but this is known to many as the "bible" of linux privesc()
 
 
 
 **Windows**:
 
-https://www.fuzzysecurity.com/tutorials/16.html
+[fuzzysecurity](https://www.fuzzysecurity.com/tutorials/16.html)
 
-https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
+[sushant747](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html)
 
-https://guif.re/windowseop
+[guif.re - windows escalation of privileges](https://guif.re/windowseop)
 
 
 
 **Other:**
 
-https://recipeforroot.com
+[recipeforroot](https://recipeforroot.com)
 
 
 
@@ -313,17 +311,17 @@ These scripts will do very similar things, and you can't really go wrong with an
 
 **Enumeration:**
 
-[nmapAutomator][13] by 21y4d - I personally like this the most because there are less output files
+[nmapAutomator][13] by 21y4d - *I personally like this the most because there are less output files*
 
-[AutoRecon][14] by Tib3rius - This is said to be the most popular at the moment
+[AutoRecon][14] by Tib3rius - *This is said to be the most popular at the moment*
 
 **Privilege Escalation**
 
-[lse.sh][15] by diego treitos - This is my favourite, I personally always use it with the `-l1` flag for more verbosity. Helps that the output is pretty and easy to read
+[lse.sh][15] by diego treitos - *This is my favourite, I personally always use it with the `-l1` flag for more verbosity. Helps that the output is pretty and easy to read*
 
-[LinEnum][16] by rebootuser - Another good one, made popular by Ippsec. But I think it's too much information.
+[LinEnum][16] by rebootuser - *Another good one, made popular by Ippsec. But I think it's too much information.*
 
-[Privilege Escalation Awesome Script Suite][17] (linPEAS and winPEAS) by carlospolop - I loved winPEAS, and expect linPEAS to be equally great, but have not used it extensively
+[Privilege Escalation Awesome Script Suite][17] (linPEAS and winPEAS) by carlospolop - *I loved winPEAS, and expect linPEAS to be equally great, but have not used it extensively*
 
 
 
