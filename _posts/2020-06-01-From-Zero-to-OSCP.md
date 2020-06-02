@@ -51,7 +51,7 @@ If you just want to prepare yourself sufficiently for the OSCP, this guide is fo
 
 
 
-That being said, if you want to be truly good at it, and not just a walking certificate, then do make it a point to read through the ton of resources and books available on the internet.
+That being said, if you want to be truly good at it, and not just a walking certificate, then do make it a point to read through the ton of resources and books available on the internet at some point.
 
 ---
 
