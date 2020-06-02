@@ -12,6 +12,7 @@ tags:
  - PWK
  - Offensive Security
  - OffSec
+
 ---
 
 ## A foreword
@@ -335,6 +336,10 @@ These scripts will do very similar things, and you can't really go wrong with an
 
 
 ---
+
+tl;dr - Just watch Ippsec.
+
+
 
 
 
