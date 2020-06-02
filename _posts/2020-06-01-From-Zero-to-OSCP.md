@@ -4,7 +4,7 @@ title:      "From Zero to OSCP"
 date:       2020-06-01 00:00:00
 author:     J
 summary:    Oh
-categories: OffSec, test
+categories: OffSec Test
 thumbnail:  fist-raised
 tags:
  - OSCP
@@ -236,8 +236,6 @@ Ideally, you will want to practice to the point you can get a reverse shell on e
 
 ### 3.2 Privilege Escalation
 
- 
-
 Don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts.
 
 Both:
@@ -268,9 +266,7 @@ https://guif.re/windowseop
 
 Googling is a skill, knowing where to find the information you want is a must. From learning new things, to searching for exploits. For this section, I will just say that you will likely find your exploit scripts required mostly on exploit-db or github.
 
-
-
-
+---
 
 ## 4. On efficiency
 
