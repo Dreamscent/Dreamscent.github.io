@@ -236,11 +236,11 @@ Ideally, you will want to practice to the point you can get a reverse shell on e
 
 ### 3.2 Privilege Escalation
 
-Don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts.
+Don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts. Some good references are as follows
 
 
 
-Linux
+**Linux**:
 
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
@@ -248,7 +248,7 @@ More good ones but this is known to many as the "bible" of linux privesc
 
 
 
-Windows
+**Windows**:
 
 https://www.fuzzysecurity.com/tutorials/16.html
 
@@ -258,7 +258,7 @@ https://guif.re/windowseop
 
 
 
-Other:
+**Other:**
 
 https://recipeforroot.com
 
@@ -268,7 +268,7 @@ https://recipeforroot.com
 
 
 
-Googling is a skill, knowing where to find the information you want is a must. From learning new things, to searching for exploits. For this section, I will just say that you will likely find your exploit scripts required mostly on exploit-db or github.
+Googling is a skill, knowing where to find the information you want is a must. From learning new things, to searching for exploits. For this section, I will just say that you will likely find your exploit scripts required mostly on [exploit-db][18] or github.
 
 ---
 
@@ -307,15 +307,19 @@ Since you pretty much know the flow of commands and what tools to use for each o
 
 
 
-Enumeration:
+These scripts will do very similar things, and you can't really go wrong with any. So pick your poison.
+
+
+
+**Enumeration:**
 
 [nmapAutomator][13] by 21y4d - I personally like this the most because there are less output files
 
 [AutoRecon][14] by Tib3rius - This is said to be the most popular at the moment
 
-Privilege Escalation
+**Privilege Escalation**
 
-[lse.sh][15] by diego treitos - This is my favourite, I personally always use it with the `-l1` flag for more verbosity.
+[lse.sh][15] by diego treitos - This is my favourite, I personally always use it with the `-l1` flag for more verbosity. Helps that the output is pretty and easy to read
 
 [LinEnum][16] by rebootuser - Another good one, made popular by Ippsec. But I think it's too much information.
 
@@ -337,7 +341,7 @@ Changelog:
 
 
 
-v 1.1 - 02/06/2020 - Add links for more stuff
+v 1.1 - 02/06/2020 - Add links for more stuff, some fixes
 
 v 1.0 - 01/06/2020 - First draft
 
@@ -360,3 +364,5 @@ v 1.0 - 01/06/2020 - First draft
 [15]: https://github.com/diego-treitos/linux-smart-enumeration
 [16]: https://github.com/rebootuser/LinEnum
 [17]: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+[18]: https://exploit-db.com
+
