@@ -4,7 +4,7 @@ title:      "From Zero to OSCP"
 date:       2020-06-01 00:00:00
 author:     J
 summary:    Oh
-categories: OffSec
+categories: OffSec, test
 thumbnail:  fist-raised
 tags:
  - OSCP
@@ -14,8 +14,9 @@ tags:
  - OffSec
 ---
 
-
 ## A foreword
+
+
 
 Those who know me personally will know that  I prepared extensively for the PWK course, and consequently the OSCP exam. And one common question from my peers is "How do I go about preparing for the OSCP? Where do I start?". If you look on the internet, there are several good guides on how to go about doing it, but here I am, adding to another of that list of guides.
 
@@ -131,6 +132,8 @@ Yes that sort of basic. Some are harder than this but it's not too far off.
 
 ### 1.4 Resources
 
+
+
 I haven't really studied this much as I came into it with some experience, but I'm told this is a good resource:
 
 [Overthewire: Bandit][1]
@@ -138,6 +141,8 @@ I haven't really studied this much as I came into it with some experience, but I
 
 
 ## 2. The Game Plan
+
+
 
 The scope of the PWK course is extremely vast, everything including the kitchen sink is being thrown at you. You have to know a little bit of everything to start off.  To learn something, you need to see how it's done. While it can be extremely helpful to read and dive into the technicalities of how each exploitation technique works, you need to prioritise expanding your breadth of knowledge as wide as possible. In order to cut a hole through a wall, you must first be able to make a small crack in it.
 
@@ -157,6 +162,8 @@ It's basically depth before breadth, vs breadth before depth:
 
 
 ### 2.1 Watch and Learn
+
+
 
 The folks at NetSecFocus have created a very nice curated [list of HackTheBox and Vulnhub machines][3] which are said to be "OSCP-like". Go through the list of them and search on YouTube for [Ippsec][2]'s walkthrough video on each machine, watch and take notes.
 
@@ -189,9 +196,11 @@ At this point you are ready to start the PWK course. Depending on your confidenc
 
 From what I gather, a good number to aim for to get a feel of the general process is **18-24** machines, give or take. If you can do that number of boxes with minimal reliance on hints, you probably have a high chance of scoring over **55** points in the exam(**70** is the passing requirement), with a slightly over 60% rate of passing(just throwing an estimate, don't quote me on it)
 
-
+---
 
 ## 3. A little bit on techniques
+
+
 
 ### 3.1 Buffer Overflows
 
@@ -211,7 +220,7 @@ You will need to set up your own vulnerable Windows virtual machine. I won't be 
 
 
 
-The following
+Then download the following onto the machine and let it rip:
 
 1. [Vulnserver][9]
 
@@ -227,7 +236,7 @@ Ideally, you will want to practice to the point you can get a reverse shell on e
 
 ### 3.2 Privilege Escalation
 
-
+ 
 
 Don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts.
 
