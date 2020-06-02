@@ -243,7 +243,7 @@ Ideally, you will want to practice to the point you can get a reverse shell on e
 
 ### 3.2 Privilege Escalation
 
-Don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts. Some good references are as follows
+You don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts. Some good references are as follows
 
 
 
@@ -274,6 +274,10 @@ Don't have to read all, pick your favourite guide and stick to that. They all mo
 
 
 Googling is a skill, knowing where to find the information you want is a must. From learning new things, to searching for exploits. For this section, I will just say that you will likely find your exploit scripts required mostly on [exploit-db][18] or github.
+
+
+
+Offensive Security loves to make you search for your own information. So much that passing the exam relies heavily on how well you can google(or whichever search engine you prefer). The machines on the exam will not be something they have put in the labs(obviously!), so the exploitation vector will probably be entirely new to you. So get used to it. Make a mental note of the common websites where you visit during your journey, as you may possibly have to revisit them to learn about a new exploitation vector during the exam itself.
 
 ---
 
