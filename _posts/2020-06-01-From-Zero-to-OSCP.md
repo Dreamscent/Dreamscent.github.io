@@ -5,7 +5,7 @@ date:       2020-06-01 00:00:00
 author:     J
 summary:    Oh
 categories: OffSec Test
-thumbnail:  fist-raised
+thumbnail:  fast-forward
 tags:
  - OSCP
  - Zero to
@@ -138,7 +138,7 @@ I haven't really studied this much as I came into it with some experience, but I
 
 [Overthewire: Bandit][1]
 
-
+---
 
 ## 2. The Game Plan
 
@@ -156,8 +156,6 @@ It's basically depth before breadth, vs breadth before depth:
 
 1. You focus so deeply on something, for example web application exploitation. You run your port scan and 10 ports show up. 2 of these open ports are web applications. Try as you might, you can't find anything to leverage on in them, now what? You google for how to exploit each and every port.
 2. You have a rough idea of what techniques can be used on each port. **21** is open? Let's try anonymous login. **80**? Gotcha, `dirbuster`, `gobuster`, or `nikto`. You find a field that I know is vulnerable to SQL injection, but can't seem to get it right.  But at least you have something to work with and know what to Google for.
-
-
 
 
 
@@ -269,6 +267,10 @@ Googling is a skill, knowing where to find the information you want is a must. F
 ---
 
 ## 4. On efficiency
+
+
+
+
 
 ### 4.1 Multiple Terminals
 
