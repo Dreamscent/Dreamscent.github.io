@@ -39,13 +39,15 @@ During the course of my preparation for the OSCE, I came across some immensely u
 
 
 
-I don't want to dump 50 links on you for reading, with each of them having their own 5 links each and make you end up lost in the sea of information. Neither do I want to recommend you 5 extremely wonderfully written books on hacking and exploitation each being 300-600 pages long. Yes those will help, but the goal is to first get to the point where you can walk, learn to run later on.
+I don't want to dump 50 links on you for reading, with each of them having their own 5 links each and make you end up lost in the sea of information. Neither do I want to recommend you 5 extremely wonderfully written books on hacking and exploitation with each being 300-600 pages long. You'll get to that stage eventually, but it's not absolutely required if you just want to pass that dreaded 24 hour exam, amazing as those resources are.
 
 
 
-If you want to be really good at it, then do read through the ton of resources and books available on the internet. But if you just want to prepare yourself sufficiently for the OSCP, this guide is for you. Do note that this will **NOT** make you a good penetration tester. Many real world scenarios and test cases performed in a penetration test are not tested in the exam. The OSCP is a **beginner** certification(albeit a difficult one) which teaches you the basic methodology and mindset of a hacker.
+Ff you just want to prepare yourself sufficiently for the OSCP, this guide is for you. Do note that this will **NOT** make you a good penetration tester. Many real world scenarios and test cases performed in a penetration test are not tested in the exam. The OSCP is a **beginner** certification(albeit a difficult one) which teaches you the basic methodology and mindset of a hacker.
 
 
+
+That being said, if you want to be truly good at it, and not just a walking certificate, then do make it a point to read through the ton of resources and books available on the internet.
 
 ---
 
@@ -236,9 +238,7 @@ Ideally, you will want to practice to the point you can get a reverse shell on e
 
 Don't have to read all, pick your favourite guide and stick to that. They all mostly contain the same information but just have different way of presenting and explaining concepts.
 
-Both:
 
-recipeforroot.com
 
 Linux
 
@@ -258,6 +258,12 @@ https://guif.re/windowseop
 
 
 
+Other:
+
+https://recipeforroot.com
+
+
+
 ### 3.3 Google-Fu
 
 
@@ -267,10 +273,6 @@ Googling is a skill, knowing where to find the information you want is a must. F
 ---
 
 ## 4. On efficiency
-
-
-
-
 
 ### 4.1 Multiple Terminals
 
@@ -301,21 +303,23 @@ While there is some truth in that, I don't believe in it fully. I personally hav
 
 
 
+Since you pretty much know the flow of commands and what tools to use for each open port, and also the list of commands you are going to be using to perform privilege escalation, why not script it so it comes out in a nice pretty format while you go get a cuppa coffee?
+
+
+
 Enumeration:
 
-nma
+[nmapAutomator][13] by 21y4d - I personally like this the most because there are less output files
 
-autorecon
+[AutoRecon][14] by Tib3rius - This is said to be the most popular at the moment
 
 Privilege Escalation
 
-lse
+[lse.sh][15] by diego treitos - This is my favourite, I personally always use it with the `-l1` flag for more verbosity.
 
-linenum
+[LinEnum][16] by rebootuser - Another good one, made popular by Ippsec. But I think it's too much information.
 
-winpeas
-
-linpeas
+[Privilege Escalation Awesome Script Suite][17] (linPEAS and winPEAS) by carlospolop - I loved winPEAS, and expect linPEAS to be equally great, but have not used it extensively
 
 
 
@@ -333,9 +337,9 @@ Changelog:
 
 
 
-v 1.1 - TBA                - Add links for more stuff
+v 1.1 - 02/06/2020 - Add links for more stuff
 
-v 1.0  - 01/06/2020 - First draft
+v 1.0 - 01/06/2020 - First draft
 
 
 
@@ -351,5 +355,8 @@ v 1.0  - 01/06/2020 - First draft
 [10]: https://www.vulnhub.com/entry/brainpan-1,51/
 [11]: https://github.com/justinsteven/dostackbufferoverflowgood
 [12]: https://github.com/xapax/oscp/blob/master/templates/linux-template.md
-[13]: https://www.vulnhub.com/entry/brainpan-1,51/
-[14]: https://www.vulnhub.com/entry/brainpan-1,51/
+[13]: https://github.com/21y4d/nmapAutomator
+[14]: https://github.com/Tib3rius/AutoRecon
+[15]: https://github.com/diego-treitos/linux-smart-enumeration
+[16]: https://github.com/rebootuser/LinEnum
+[17]: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
