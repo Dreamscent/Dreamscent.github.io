@@ -136,10 +136,6 @@ Yes that sort of basic. Some are harder than this but it's not too far off.
 
 
 
-***This section is a work in progress based on feedback. Check back soon! (maybe a couple hours)***
-
-
-
 Taking notes is something every student needs to do. My recommendation is to use an application of your choice that supports the following:
 
 
