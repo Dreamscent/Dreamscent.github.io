@@ -132,7 +132,7 @@ Yes that sort of basic. Some are harder than this but it's not too far off.
 
 
 
-### 1.4 Notetaking
+### 1.4 Notetaking (Study notes)
 
 
 
@@ -153,15 +153,89 @@ Taking notes is something every student needs to do. My recommendation is to use
 
 
 
+** Typora**
+
+
+
+[Typora][20] is what I use for my notes, so you may expect some bias here. There is a very small learning curve in using it as you will have to learn the [Markdown syntax][19](it's really easy and you can probably learn what you need in under 5 minutes). But don't be intimidated by the more annoying-to-type-out parts such as tables and checkboxes, as the application does that for you through the right click menu.
+
+
+
+Of course, some other stuff are [theming support][21] (Yess dark theme!), automatic syntax highlighting for code fences, and the [markdown content renders nicely on github][22], in case you want to share it with others. Some of you programmers who work in Visual Studio Code will also be happy to know that Markdown natively renders in that program as well. Other nice  features are the ability to export to pdf, since not everyone has a program that reads the markdown syntax(it's a plaintext file really, you can use notepad to edit it). Finally, it's also cross-platform compatible.
+
+
+
+There are downsides however. Firstly, to sync content across devices you will probably want to open the file(s) inside a directory that syncs to a cloud, such as Google Drive. Secondly, the tree structure is basically a ton of individual files stored within folder within another folder. And you also have to configure where images are saved(it's in the `appdata` folder by default); if you don't, you may not be able to view the embedded images from another computer.
+
+
+
 ![typora](/images/Random/typora.png)
 
 
+
+As a matter of fact, [this guide you're reading now][23] was written with markdown in Typora!
+
+![this blog was written by it too!](/images/Random/blogmarkdown.png)
+
+
+
+** Microsoft OneNote**
+
+
+
+Microsoft OneNote is installed on most Windows systems, you probably already have it on your computer as it is(Unless you're a mac or linux guy). It's a fantastic piece of software, which readily syncs to mobile devices and multiple computers. Notable features are the ease of organisation, and that you can even embed(and watch) YouTube videos from within it!
+
+
+
+Downsides are that it does use the storage space in your Microsoft account, so if you're an image/screenshot heavy kind of notetaker, you might blow it. Also, it kind of sucks if you wanna share your notes with others.
 
 ![onenote](/images/Random/msonenote.png)
 
 
 
-### 1.5 Resources
+### 1.5 Notetaking (Documentation)
+
+
+
+You probably have noticed that I have split "Notetaking" into 2 parts. One for your study notes("command cheatsheets,  shortcuts, etc"), and another for  documentation. Many people I know use a single application for it due to simplicity. However, I tend to split them up.
+
+
+
+Why? The reasons are as follows:
+
+
+
+1. File corruption. In markdown, each note "section" is a single file in plaintext, chances of corruption is pretty low. But in applications where you embed images and everything is saved in a single file, you're putting all your eggs in 1 basket. I've read somewhere that someone had his notes corrupted during his exam, and basically caused him to fail.
+2. I like my main notetaking app on windows, during my free time I can revise, reword, add stuff, and organise it without opening a virtual machine.
+3. I however, like my documentation being done in Kali, because moving in and out of a virtual machine to write my findings and screenshot things is extremely annoying.
+
+
+
+The only application I recommend for this is Cherrytree. I understand that newer versions of Kali have some other new notetaking program preinstalled instead of this, and that people have had success with it. Feel free to try that.
+
+
+
+If it's not preinstalled, it's still in Kali's repository:
+
+~~~bash
+apt-get install cherrytree
+~~~
+
+
+
+Cherrytree stores it's data in it's own self-contained sqlite file, with an option to encrypt it's contents. But the main thing I like is that it just works without any hiccups. Open a node, and start writing and pasting screenshots. It's also cross-platform compatible, and I know people who write their main notes using it as well.
+
+
+
+![cherrytree][/images/Random/cherrytree.png]
+
+
+
+Another note about documentation, do get used to screenshotting anything and everything remotely positive as you work your way through machines. Scan results, some sign that some attack is working, some changes you made to code. Everything. The OSCP exam report requires you to have quite a substantial number of screenshots showing each and every step taken, so make sure you get into the habit of taking screenshots early on in your journey.
+
+
+
+### 1.6 Resources
 
 
 
@@ -389,6 +463,8 @@ Changelog:
 
 
 
+v1.2 - 03/06/2020 - Added section on notetaking and applications
+
 v 1.1 - 02/06/2020 - Add links for more stuff, some fixes
 
 v 1.0 - 01/06/2020 - First draft
@@ -413,4 +489,10 @@ v 1.0 - 01/06/2020 - First draft
 [16]: https://github.com/rebootuser/LinEnum
 [17]: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 [18]: https://exploit-db.com
+[19]: https://www.markdownguide.org/cheat-sheet/
+[20]: https://typora.io/
+[21]: https://theme.typora.io/
+[22]: https://github.com/Dreamscent/Dreamscent.github.io/blob/master/_posts/2020-06-01-From-Zero-to-OSCP.md
+[23]: https://raw.githubusercontent.com/Dreamscent/Dreamscent.github.io/master/_posts/2020-06-01-From-Zero-to-OSCP.md
 
+[24]: 
