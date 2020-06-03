@@ -12,8 +12,6 @@ tags:
  - VHL
 ---
 
-Disclaimer: This post is still fresh and subject to changes in the coming days
-
 I may be behind schedule in what I initially planned last year, but I have completed both Virtual Hacking Labs Certifications. Those who know me personally would know that I had some issues in real life which affected my morale late last year. This eventually led to me missing out completing both certifications by 3 Advanced+ machines. An extension was made for 1 month for report writing(and redoing screenshots if needed).
 
 

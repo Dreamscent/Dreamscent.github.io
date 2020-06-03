@@ -16,10 +16,6 @@ tags:
 
 
 
-Disclaimer: This post is still fresh and subject to changes in the coming days
-
-
-
 ## #whoami
 
 Just a foreword before you go on to read this entry. Everyone has different backgrounds, experiences, time constraints, personal commitments and learning capabilities. Because of this, your mileage may vary from the experiences I am about to share here, and I do not wish to give anyone false hopes or expectations going to the course and/or the exam.  You may be faster or you may be slower; who knows? But we will all get there eventually.
