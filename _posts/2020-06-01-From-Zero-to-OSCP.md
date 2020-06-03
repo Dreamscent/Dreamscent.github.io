@@ -4,7 +4,7 @@ title:      "From Zero to OSCP"
 date:       2020-06-01 00:00:00
 author:     J
 summary:    Oh
-categories: OffSec
+categories: OffSec Guides
 thumbnail:  fast-forward
 tags:
  - OSCP
@@ -12,7 +12,11 @@ tags:
  - PWK
  - Offensive Security
  - OffSec
+redirect_from:
+  - /offsec/2020/06/01/From-Zero-to-OSCP/
 ---
+
+
 
 ## A foreword
 
