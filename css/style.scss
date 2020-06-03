@@ -157,6 +157,10 @@ ul {
 		.fa {
 			margin-right: 10px;
 		}
+		.li {
+			margin: 0;
+			padding: 0;
+		}
 	}
 }
 
@@ -388,7 +392,6 @@ ul {
 		ul {
 			margin-bottom: 30px;
 			padding-left: 10px;
-			display: inline-block;
 			ul {
 				padding-left: 50px;
 				list-style: none;
