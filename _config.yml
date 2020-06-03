@@ -43,3 +43,6 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
+
+plugins:
+  - jekyll-redirect-from
