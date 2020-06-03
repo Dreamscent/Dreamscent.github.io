@@ -4,7 +4,7 @@ title:      Kali Linux QoL Improvements
 date:       2019-09-21 15:20:20
 author:     J
 summary:    Life's too short
-categories: General
+categories: General Guides
 thumbnail:  thumbs-up
 tags:
  - Linux
