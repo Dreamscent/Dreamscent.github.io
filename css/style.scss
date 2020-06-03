@@ -158,7 +158,9 @@ ul {
 			margin-right: 10px;
 		}
 		li, ul {
-			display: inline-block;
+			display: flex;
+			flex-direction: column;
+			justify-content: flex-start;
 		}
 	}
 }
