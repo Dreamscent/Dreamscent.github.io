@@ -153,7 +153,7 @@ Taking notes is something every student needs to do. My recommendation is to use
 
 
 
-** Typora**
+**Typora**
 
 
 
@@ -173,21 +173,21 @@ There are downsides however. Firstly, to sync content across devices you will pr
 
 
 
-As a matter of fact, [this guide you're reading now][23] was written with markdown in Typora!
+As a matter of fact, [this guide you're reading now][23] was written in markdown with Typora!
 
 ![this blog was written by it too!](/images/Random/blogmarkdown.png)
 
 
 
-** Microsoft OneNote**
+**Microsoft OneNote**
 
 
 
-Microsoft OneNote is installed on most Windows systems, you probably already have it on your computer as it is(Unless you're a mac or linux guy). It's a fantastic piece of software, which readily syncs to mobile devices and multiple computers. Notable features are the ease of organisation, and that you can even embed(and watch) YouTube videos from within it!
+Microsoft OneNote is installed on most Windows systems, you probably already have it on your computer as it is(Unless you're a mac or linux person). It's a fantastic piece of software, which readily syncs to mobile devices and multiple computers. Notable features are the ease of organisation, and that you can even embed(and watch) YouTube videos from within it!
 
 
 
-Downsides are that it does use the storage space in your Microsoft account, so if you're an image/screenshot heavy kind of notetaker, you might blow it. Also, it kind of sucks if you wanna share your notes with others.
+Downsides are that it does use the storage space in your Microsoft account, so if you're an image/screenshot heavy kind of notetaker, you might face issues with storage capacity. Also, it kind of sucks if you wanna share your notes with others.
 
 ![onenote](/images/Random/msonenote.png)
 
@@ -227,11 +227,15 @@ Cherrytree stores it's data in it's own self-contained sqlite file, with an opti
 
 
 
-![cherrytree][/images/Random/cherrytree.png]
+![cherrytree](/images/Random/cherrytree.png)
 
 
 
 Another note about documentation, do get used to screenshotting anything and everything remotely positive as you work your way through machines. Scan results, some sign that some attack is working, some changes you made to code. Everything. The OSCP exam report requires you to have quite a substantial number of screenshots showing each and every step taken, so make sure you get into the habit of taking screenshots early on in your journey.
+
+
+
+That being said, if you still insist on a single application for everything, OneNote is probably the best option.
 
 
 
