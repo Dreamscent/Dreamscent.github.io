@@ -367,7 +367,7 @@ Then download the following onto the machine and let it rip:
 
 Ideally, you will want to practice to the point you can get a reverse shell on each of them in under 15 minutes. But if you can't, about 30-40 minutes will still suffice. Take note that the exam may possibly contain a harder BOF, so the key here is to get it done as quickly as possible so you'll have more time for other machines during the exam.
 
-If you're studying and learning the buffer overflow, regardless of which tutorial you're following, you can use my [visual guide here][28]to help grasp the concept a bit more easily.
+If you're studying and learning the buffer overflow, regardless of which tutorial you're following, you can use my [visual guide here ][28]to help grasp the concept a bit more easily.
 
 
 
