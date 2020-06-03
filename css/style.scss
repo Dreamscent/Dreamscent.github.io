@@ -606,6 +606,9 @@ ul {
             		ol {
 				list-style-type: decimal;
 			}
+			li::marker {
+				color: $light-blue;
+			}
 
 			blockquote {
 				position: relative;
@@ -910,8 +913,4 @@ th{
 td{
     padding: 2px;
     border:1px solid $dark-blue;;
-}
-
-ul li::marker {
-  color: red;
 }
