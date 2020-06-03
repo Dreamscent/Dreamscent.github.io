@@ -29,7 +29,7 @@ This is a simplified version of what is happening, and may not 100% accurately r
 
 
 
-So when you're doing your next buffer overflow attack, I hope that you
+This is not a Buffer Overflow Guide, but rather a visualisation to complement any practice or learning you may be doing.
 
 ---
 
