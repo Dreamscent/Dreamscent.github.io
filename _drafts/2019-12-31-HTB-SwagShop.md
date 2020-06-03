@@ -11,7 +11,7 @@ tags:
  - HackTheBox
 ---
 
-HA! Box hasn't retired. This is just a placeholder and for my experimentation with github pages.
+HA! I actually didn't prep
 
 ![Troll](/images/troll.gif)
 
