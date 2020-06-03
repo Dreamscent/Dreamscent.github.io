@@ -59,7 +59,9 @@ But for this example, lets say we throw 26 characters of the alphabet at it:
 
 
 
->ABCDEFGHIJKLMNOPQRSTUVWXYZ
+~~~
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+~~~
 
 
 It will get filled and look something like this:
@@ -68,8 +70,9 @@ It will get filled and look something like this:
 
 We know that `KLMN` appears at offset ***10*** in the unique string, so the buffer should be 10! To confirm this, we put our own crafted string inside. We start with 10 A's. followed by 4 B's, and fill the rest with C's
 
-> AAAAAAAAAABBBBCCCCCCCCCCCC
-
+~~~
+AAAAAAAAAABBBBCCCCCCCCCCCC
+~~~
 
 
 In hex representation, A is *41*, B is *42*, and C is *43*. So in theory, it will look like this:
@@ -83,8 +86,9 @@ In hex representation, A is *41*, B is *42*, and C is *43*. So in theory, it wil
 There is a catch! Sometimes things don't go as smoothly as you'd like. There might be some restricted characters which are not accepted by the application(aka "Bad Characters"). To find them out, we place every possible character in stack and check it out
 
 
-
-> AAAAAAAAAABBBB <then every possible character here>
+~~~
+AAAAAAAAAABBBB <then every possible character here>
+~~~
 
 ![bof4 image](/images/BOF/bof4.png)
 
@@ -117,9 +121,9 @@ We then find out where we can find an instruction that says `JMP ESP`, which bas
 So, your final payload will look like this:
 
 
-
-> AAAAAAAAAA<JMP ESP location><shellcode>
-
+~~~
+AAAAAAAAAA<JMP ESP location><shellcode>
+~~~
 
 
 ![bof7 image](/images/BOF/bof7.png)
@@ -135,9 +139,3 @@ And that, folks, is a rough  idea of how your basic buffer overflows work.
 Cheers!
 
 J
-
-
-
-
-
-/images/BOF
