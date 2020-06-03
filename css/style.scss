@@ -911,3 +911,7 @@ td{
     padding: 2px;
     border:1px solid $dark-blue;;
 }
+
+ul li::marker {
+  color: red;
+}
