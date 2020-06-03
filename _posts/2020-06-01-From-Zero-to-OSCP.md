@@ -22,7 +22,7 @@ Those who know me personally will know that  I prepared extensively for the PWK 
 
 
 
-One common question from my peers is "How do I go about preparing for the OSCP? Where do I start?". If you look on the internet, there are several good guides on how to go about doing it, but here I am, adding to another of that list of guides.
+One common question from my peers is *"How do I go about preparing for the OSCP? Where do I start?"*. If you look on the internet, there are several good guides on how to go about doing it, but here I am, adding my own take to that list of guides.
 
 
 
@@ -35,15 +35,15 @@ This guide will be primarily for those who have some limited(minimal is fine, bu
 
 
 
-There are a ton of prerequisites that everyone says to have which you may not possess, but let's face it. You want that certificate, your employer wants that certificate, your future employers want that certificate. Regardless of whether you have the entire checklist or not, you want to do it, and you want to know the most efficient way to do it.
+There are a ton of prerequisites that everyone says to have which you may not possess, but let's face it. You want that certificate, your employer wants that certificate, your future employers want that certificate. Not everybody has *"X years of security experience, knowledge in Y programming language"*. Regardless of whether you have the entire checklist or not, you want to do it, and you want to know the most efficient way to do it.
 
 
 
-During the course of my preparation for the OSCE, I came across some immensely useful guides/study plan thingies which would speed up my progress significantly. So with that inspiration in mind, I will pen down my thoughts and ideas here on how to prepare for the OSCP. Working **hard** is one thing, but if you have a direction, you can work **smart**.
+During the course of my preparation for the OSCE, I came across some immensely useful guides/study plan thingies which would speed up my progress significantly. So with that inspiration in mind, I will pen down my thoughts and ideas here on how to prepare for the OSCP. Working **hard** is one thing, but if you have a direction and a clear game plan, you can work **smart**.
 
 
 
-I don't want to dump 50 links on you for reading, with each of them having their own 5 links each and make you end up lost in the sea of information. Neither do I want to recommend you 5 extremely wonderfully written books on hacking and exploitation with each being 300-600 pages long. You'll get to that stage eventually, but it's not absolutely required if you just want to pass that dreaded 24 hour exam, amazing as those resources are.
+I don't want to dump 50 links of tutorials and stuff on you for reading, with each of them having their own 5 links each and make you end up lost in the sea of information. Neither do I want to recommend you 5 extremely wonderfully written books on hacking and exploitation with each being 300-600 pages long. You'll get to that stage eventually, but it's not absolutely required if you just want to pass that dreaded 24 hour exam, as amazing as those resources are.
 
 
 
@@ -253,7 +253,7 @@ I haven't really studied this much as I came into it with some experience, but I
 
 
 
-The scope of the PWK course is extremely vast, everything including the kitchen sink is being thrown at you. You have to know a little bit of everything to start off.  To learn something, you need to see how it's done. While it can be extremely helpful to read and dive into the technicalities of how each exploitation technique works, you need to prioritise expanding your breadth of knowledge as wide as possible. In order to cut a hole through a wall, you must first be able to make a small crack in it.
+The scope of the PWK course is extremely vast, everything including the kitchen sink is being thrown at you. You have to know a little bit of everything to start off.  To learn something more effectively, you need to see how it's done. While it can be extremely helpful to read and dive into the technicalities of how each exploitation technique works, you need to prioritise expanding your breadth of knowledge as wide as possible first. In order to cut a hole through a wall, you must first be able to make a small crack in it. There's no point in hammering away at one part of the wall, when you don't know where the weak spot of the said wall is.
 
 
 
@@ -264,7 +264,7 @@ A lot of people may disagree with this approach, but it's still a valid strategy
 It's basically depth before breadth, vs breadth before depth. Take for example:
 
 1. You focus so deeply on something, for example web application exploitation, but that's about all you know. You run your port scan and 10 ports show up. 2 of these open ports are web applications. Try as you might, you can't find anything to leverage on in them, now what? You google for how to exploit each and every port. That's 8 different services running on the remaining 8 ports.
-2. You have a rough idea of what techniques can be used on each port. *21* is open? Let's try anonymous login. *80*? Gotcha, `dirbuster`, `gobuster`, or `nikto`. You find a field that I know is vulnerable to SQL injection, but can't seem to get it right.  But at least you have something to work with and know what to Google for.
+2. You have a rough idea of what techniques can be used on each port. *21* is open? Let's try anonymous login. *80*? Gotcha, `dirbuster`, `gobuster`, or `nikto`. You find a text field that you know is vulnerable to SQL injection, but can't seem to get your payload right, because you're not the web guy in scenario 1 above.  But hey, at least you have something to work with and know what to Google for.
 
 
 
@@ -300,7 +300,7 @@ There are many other fantastic free resources out there, but trust me on this on
 
 ### 2.3 The PWK lab
 
-At some point you will be ready to start the PWK course. Perhaps after going through most of the list of boxes on HackTheBox. mentioned before. If you got a VIP subscription and managed to get your hands dirty, all the better.
+At some point you will be ready to start the PWK course. Perhaps after going through most of the list of boxes on HackTheBox mentioned above. If you got a VIP subscription and managed to get your hands dirty, all the better.
 
 
 
@@ -308,7 +308,25 @@ Depending on your confidence level, you can opt for 30, 60, or 90 days of labs. 
 
 
 
-From what I gather, a good number to aim for to get a feel of the general process is **18-24** machines, give or take. If you can do that number of boxes with minimal reliance on hints, you probably have a high chance of scoring over **55** points in the exam(**70** is the passing requirement), with a slightly over 60% rate of passing(just throwing an estimate, don't quote me on it)
+From what I gather, a good number to aim for to get a feel of the general process is **18-24** machines, give or take. If you can do that number of boxes with minimal reliance on hints, you probably have a high chance of scoring over **55** points in the exam(**70** is the passing requirement), with a slightly over 60% rate of passing(just throwing an estimate, don't quote me on it).
+
+
+
+### 2.4 The Exam
+
+
+
+You probably already know about the dreaded 24-hour exam, so I won't tell you things you already know. If not, you can read about some of my thoughts and experience [here][24]. But I must repeat and put some emphasis on some things that everyone already tells you.
+
+
+
+1. Don't panic, it's not THATTTT difficult, just time consuming. Take proper breaks and rotate through the machines periodically. You'll see things with fresh new eyes after. It's really how well you google, and how sharp you are; not how sick your h4x0r skillz are. The real test of skills are in the OSCE and OSWE, not this one.
+2. Go in with a schedule/game plan thingy. Scan everything right at the start, and do your buffer overflow while the scans are running. When you're done you should have some results to work with. If all goes well you should have almost half the points needed to pass within the first hour or so.
+3. There are rabbit holes in the exam, but don't forget to stay calm and follow your methodology which has not let you down thus far. You might find that what you're looking for is right in front of you. I hear of people who relooked at their scan results after the exam(regardless of pass/fail), and got a huge facepalm.
+4. Don't forget Metasploit exists. You're only allowed to use it once, but it could be your secret weapon to getting that last few points.
+5. Check your exam control panel, documentation and screenshots after every proof key you obtain. Check them again when you're finishing the exam. If you miss a single proof screenshot/submission, it's as good as not having done the machine.
+
+
 
 ---
 
@@ -328,7 +346,7 @@ Thus I recommend the [Buffer Overflows Made Easy][7] video series by The Cyber M
 
 ### 3.1.1 Buffer Overflow additional Resources
 
-You will need to set up your own vulnerable Windows virtual machine. I won't be able to help you here, but these are what I shared with my peers when teaching them basic buffer overflows. In addition, you will need to download [Immunity Debugger][8] with the Mona modules.
+You will need to set up your own vulnerable Windows virtual machine. I won't be able to help you here because of legal restrictions(heh), but these are what I shared with my peers when teaching them basic buffer overflows. In addition, you will need to download [Immunity Debugger][8] with the Mona modules.
 
 
 
@@ -336,7 +354,7 @@ Then download the following onto the machine and let it rip:
 
 1. [Vulnserver][9]
 
-2. [Brainpan: 1][11] (It comes as a VM, but you can just extract the `.exe` file and transfer it to your own machine)
+2. [Brainpan: 1][11] (It comes as a VM, but you can just extract the `.exe` file and transfer it to your own machine to tinker with)
 
 3. [Dostackbufferoverflowgood][11]
 
@@ -378,7 +396,7 @@ You don't have to read all, pick your favourite guide and stick to that. They al
 
 
 
-Googling is a skill, knowing where to find the information you want is a must. From learning new things, to searching for exploits. For this section, I will just say that you will likely find your exploit scripts required mostly on [exploit-db][18] or github.
+Googling is a skill, knowing where to find the information you want is a must. From learning new things, to searching for exploits. For this section, I will just say that you will likely find your exploit scripts required mostly on [exploit-db][18] or github. Approximately 3 in 4 times it will be found in the former.
 
 
 
@@ -467,7 +485,7 @@ Changelog:
 
 
 
-v1.2 - 03/06/2020 - Added section on notetaking and applications
+v1.2 - 03/06/2020 - Added section on notetaking and applications,  more stuff on the exam
 
 v 1.1 - 02/06/2020 - Add links for more stuff, some fixes
 
@@ -498,5 +516,4 @@ v 1.0 - 01/06/2020 - First draft
 [21]: https://theme.typora.io/
 [22]: https://github.com/Dreamscent/Dreamscent.github.io/blob/master/_posts/2020-06-01-From-Zero-to-OSCP.md
 [23]: https://raw.githubusercontent.com/Dreamscent/Dreamscent.github.io/master/_posts/2020-06-01-From-Zero-to-OSCP.md
-
-[24]: 
+[24]: https://dreamscent.github.io/offsec/2020/03/16/My-OSCP-Journey/
