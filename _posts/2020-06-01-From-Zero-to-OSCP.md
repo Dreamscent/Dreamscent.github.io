@@ -136,7 +136,28 @@ Yes that sort of basic. Some are harder than this but it's not too far off.
 
 
 
-This section is a work in progress based on feedback. Check back soon! (maybe a couple hours)
+***This section is a work in progress based on feedback. Check back soon! (maybe a couple hours)***
+
+
+
+Taking notes is something every student needs to do. My recommendation is to use an application of your choice that supports the following:
+
+
+
+1. Some sort of tree for organisation
+
+2. Some form of support for color coding
+
+3. A way identify and quickly copy out commands
+4. Ease of use. What I mean by this is how easily and quickly you can format your information to be aesthetically pleasing so it can be easy to refer to.
+
+
+
+![typora](/images/Random/typora.png)
+
+
+
+![onenote](/images/Random/onenote.png)
 
 
 
