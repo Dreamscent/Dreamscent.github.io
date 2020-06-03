@@ -4,7 +4,7 @@ title:      "From Zero to OSCP"
 date:       2020-06-01 00:00:00
 author:     J
 summary:    Oh
-categories: OffSec
+categories: OffSec Guides
 thumbnail:  fast-forward
 tags:
  - OSCP
@@ -273,7 +273,6 @@ The folks at NetSecFocus have created a very nice curated [list of HackTheBox an
 If you able to purchase a [HackTheBox ][4]VIP subscription to access those machines, it can be helpful to follow through and replicate what he does. The key here is to understand what he's doing and why.
 
 
-
 For the machines from [Vulnhub][5], you can google the walkthroughs for them. Unlike HackTheBox, this is an entirely free approach. Do note you'll have  to set up your network between virtual machines. Also please do not connect the vulnerable machine to the internet.
 
 
@@ -282,11 +281,15 @@ Basically this is it. This in itself will prepare you about 80% or more of the w
 
 
 
-### 2.2 You call this a guide?! I expected something structured!!@1one@at@
+### 2.2 You call this a guide?! I expected a more structured learning plan!@1one@at@
 
 
 
 Ok I get it, not everyone is able to absorb tidbits from all over the place at once. I did not go this route, but I did however finish [this][6] course by The Cyber Mentor on Udemy. You will have to pay a small enrollment fee but his contents are top notch.
+
+
+
+Another one you may try is the [eLearnSecurity Penetration Testing Student][25] course. You can get a barebones edition for free by registering on the [Ethical Hacker Network][26]. This is stated on their website to be "limited time only", and is still valid at the time of writing.
 
 
 
@@ -481,11 +484,13 @@ Changelog:
 
 
 
+v1.3 - 03/06/2020 - Added link to PTS(eJPT) course
+
 v1.2 - 03/06/2020 - Added section on notetaking and applications,  more stuff on the exam
 
-v 1.1 - 02/06/2020 - Add links for more stuff, some fixes
+v1.1 - 02/06/2020 - Add links for more stuff, some fixes
 
-v 1.0 - 01/06/2020 - First draft
+v1.0 - 01/06/2020 - First draft
 
 
 
@@ -513,3 +518,5 @@ v 1.0 - 01/06/2020 - First draft
 [22]: https://github.com/Dreamscent/Dreamscent.github.io/blob/master/_posts/2020-06-01-From-Zero-to-OSCP.md
 [23]: https://raw.githubusercontent.com/Dreamscent/Dreamscent.github.io/master/_posts/2020-06-01-From-Zero-to-OSCP.md
 [24]: https://dreamscent.github.io/offsec/2020/03/16/My-OSCP-Journey/
+[25]: https://www.elearnsecurity.com/course/penetration_testing_student/
+[26]: https://www.ethicalhacker.net/
