@@ -132,7 +132,15 @@ Yes that sort of basic. Some are harder than this but it's not too far off.
 
 
 
-### 1.4 Resources
+### 1.4 Notetaking
+
+
+
+This section is a work in progress based on feedback. Check back soon! (maybe a couple hours)
+
+
+
+### 1.5 Resources
 
 
 
