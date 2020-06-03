@@ -157,7 +157,7 @@ Taking notes is something every student needs to do. My recommendation is to use
 
 
 
-![onenote](/images/Random/onenote.png)
+![onenote](/images/Random/msonenote.png)
 
 
 
