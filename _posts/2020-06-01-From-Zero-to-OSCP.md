@@ -153,7 +153,7 @@ Taking notes is something every student needs to do. My recommendation is to use
 
 
 
-[Typora][20] is what I use for my notes, so you may expect some bias here. There is a very small learning curve in using it as you will have to learn the [Markdown syntax][19](it's really easy and you can probably learn what you need in under 5 minutes). But don't be intimidated by the more annoying-to-type-out parts such as tables and checkboxes, as the application does that for you through the right click menu.
+[Typora][20] is what I use for my notes, so you may expect some bias here. There is a very small learning curve in using it as you will have to learn the [Markdown syntax][19] (it's really easy and you can probably learn what you need in under 5 minutes). But don't be intimidated by the more annoying-to-type-out parts such as tables and checkboxes, as the application does that for you through the right click menu.
 
 
 
@@ -289,7 +289,9 @@ Ok I get it, not everyone is able to absorb tidbits from all over the place at o
 
 
 
-Another one you may try is the [eLearnSecurity Penetration Testing Student][25] course. You can get a barebones edition for free by registering on the [Ethical Hacker Network][26]. This is stated on their website to be "limited time only", and is still valid at the time of writing.
+Another one you may try is the [Penetration Testing Student][25] course by eLearnSecurity. You can get a barebones edition for free by registering on the [Ethical Hacker Network][26]. This is stated on their website to be "limited time only", and is still valid at the time of writing.
+
+If you like the course, you can choose to pay for an [eJPT][27] examination attempt. Their courses in general are pretty high quality, and are slowly but surely gaining recognition within the cybersecurity industry.
 
 
 
@@ -360,6 +362,8 @@ Then download the following onto the machine and let it rip:
 
 
 Ideally, you will want to practice to the point you can get a reverse shell on each of them in under 15 minutes. But if you can't, about 30-40 minutes will still suffice. Take note that the exam may possibly contain a harder BOF, so the key here is to get it done as quickly as possible so you'll have more time for other machines during the exam.
+
+If you're studying and learning the buffer overflow, regardless of which tutorial you're following, you can use my [visual guide here][28]to help grasp the concept a bit more easily.
 
 
 
@@ -484,7 +488,7 @@ Changelog:
 
 
 
-v1.3 - 03/06/2020 - Added link to PTS(eJPT) course
+v1.3 - 03/06/2020 - Added link to PTS(eJPT) course, BOF update
 
 v1.2 - 03/06/2020 - Added section on notetaking and applications,  more stuff on the exam
 
@@ -520,3 +524,5 @@ v1.0 - 01/06/2020 - First draft
 [24]: https://dreamscent.github.io/offsec/2020/03/16/My-OSCP-Journey/
 [25]: https://www.elearnsecurity.com/course/penetration_testing_student/
 [26]: https://www.ethicalhacker.net/
+[27]: https://www.elearnsecurity.com/certification/ejpt/
+[28]: https://dreamscent.github.io/guides/2020/06/03/Beginner-BOF-Visualised/

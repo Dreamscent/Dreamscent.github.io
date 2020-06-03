@@ -104,7 +104,7 @@ Inside a debugger, we look at the stack see that **D** and **2** were corrupted 
 
 
 
-Now you need to know what the registers actually do and mean a simplified explanation is:
+Now you need to know what the registers actually do and mean. A simplified explanation is:
 
 - EIP (Instruction Pointer) - *Basically means where do I go next?*
 - ESP (Stack Pointer) - *This is the* ***Location*** *of where all our C's were in a previous step*
