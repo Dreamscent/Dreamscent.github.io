@@ -434,11 +434,11 @@ There are a lot more fanciful ways to navigate around the windows within the OS 
 
 
 
-I know that some people who believe in full manual scanning. Manually typing the `nmap` command, then doing extra stuff like `gobuster`, `nikto` and whatnot manually. The common argument is that "to be a good hacker, you need to know each of your tools well, understand what each flag does etc.
+I know that some people who believe in full manual scanning. Manually typing the `nmap` command, then doing extra stuff like `gobuster`, `nikto` and whatnot manually. The common argument is that *"to be a good hacker, you need to know each of your tools well, understand what each flag does etc"*.
 
 
 
-While there is some truth in that, I don't believe in it fully. I personally have my own "cheatsheet" of commands for each tool I use for my exploitations and privilege escalation attempts, and can easily perform everything manually with copy and pasting commands, and so should you. A sample of a cheatsheet by xapax can be found [here][12]. Credits go to the author for sharing this on his github page.
+While there is some truth in that, I don't believe in it fully. I personally have my own "cheatsheet" of commands for each tool I use for my exploitations and privilege escalation attempts, and can easily perform everything manually with copy and pasting commands, and so should you. A sample of such a cheatsheet by xapax can be found [here][12]. Credits go to the author for sharing this on his Github page.
 
 
 
@@ -446,7 +446,7 @@ Since you pretty much know the flow of commands and what tools to use for each o
 
 
 
-These scripts will do very similar things, and you can't really go wrong with any. So pick your poison.
+The following will do just that. These scripts all do very similar things, and you can't really go wrong with any. So pick your poison.
 
 
 
