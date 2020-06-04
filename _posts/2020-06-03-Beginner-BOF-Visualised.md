@@ -68,7 +68,7 @@ It will get filled and look something like this:
 
 ![bof2 image](/images/BOF/bof2.png)
 
-We know that `KLMN` appears at offset ***10*** in the unique string, so the buffer should be 10! To confirm this, we put our own crafted string inside. We start with 10 A's. followed by 4 B's, and fill the rest with C's
+After we inject our alphabet, we can see that the `EIP` contains `KLMN`. We know that `KLMN` appears at offset ***10*** in the unique string, so the buffer should be 10! To confirm this, we put our own crafted string inside. We start with 10 A's. followed by 4 B's, and fill the rest with C's
 
 ~~~
 AAAAAAAAAABBBBCCCCCCCCCCCC
