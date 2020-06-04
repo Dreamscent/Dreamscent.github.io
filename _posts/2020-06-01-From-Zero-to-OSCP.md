@@ -421,8 +421,19 @@ I sometimes see people with 4 or more separate terminal windows open, and having
 
 2 of my recommended ways to deal with this are:
 
-1. Tmux - I personally use this, tab/window switching is fast as you can use hotkeys. In addition, you can name each tab/window so you can quickly identify which window is doing what. The ability to split a terminal is also useful if you want to multitask and see multiple things at once.
+1. Tmux - I personally use this, tab/window switching is fast as you can use hotkeys. In addition, you can name each tab/window so you can quickly identify which window is doing what. The ability to split a terminal is also useful if you want to multitask and see multiple things at once. With the [oh my tmux!][29] customisation, you got to admit it looks pretty cool.
+
+
+
+![tmux](/images/Random/tmuxsample.png)
+
+
+
 2. Tabbed Terminals - Just like modern web browsers, you can actually run multiple tabs within the same terminal window using `ctrl + shift + t`
+
+
+
+![tabbed terminal](/images/Random/tabbedsample.png)
 
 
 
@@ -492,6 +503,8 @@ Changelog:
 
 
 
+v1.4 - 04/06/2020 - Added screenshots for tmux and tabbed terminals
+
 v1.3 - 03/06/2020 - Added link to PTS(eJPT) course, BOF update
 
 v1.2 - 03/06/2020 - Added section on notetaking and applications,  more stuff on the exam
@@ -530,3 +543,4 @@ v1.0 - 01/06/2020 - First draft
 [26]: https://www.ethicalhacker.net/
 [27]: https://www.elearnsecurity.com/certification/ejpt/
 [28]: https://dreamscent.github.io/guides/2020/06/03/Beginner-BOF-Visualised/
+[29]: https://github.com/gpakosz/.tmux
