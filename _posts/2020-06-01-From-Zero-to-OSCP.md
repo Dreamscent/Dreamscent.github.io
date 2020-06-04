@@ -47,7 +47,7 @@ During the course of my preparation for the OSCE, I came across some immensely u
 
 
 
-I don't want to dump 50 links of tutorials and stuff on you for reading, with each of them having their own 5 links each and make you end up lost in the sea of information. Neither do I want to recommend you 5 extremely wonderfully written books on hacking and exploitation with each being 300-600 pages long. You'll get to that stage eventually, but it's not absolutely required if you just want to pass that dreaded 24 hour exam, as amazing as those resources are.
+I don't want to dump 50 links of tutorials and stuff on you for reading, with each of them having their own 5-10 links each and make you end up lost in the sea of information. Neither do I want to recommend you 5 extremely wonderfully written books on hacking and exploitation with each being 300-600 pages long. You'll get to that stage eventually, but it's not absolutely required if you just want to pass that dreaded 24 hour exam, as amazing as those resources are.
 
 
 
@@ -421,7 +421,7 @@ I sometimes see people with 4 or more separate terminal windows open, and having
 
 2 of my recommended ways to deal with this are:
 
-1. Tmux - I personally use this, tab/window switching is fast as you can use hotkeys. In addition, you can name each tab/window so you can quickly identify which window is doing what. The ability to split a terminal is also useful if you want to multitask and see multiple things at once. With the [oh my tmux!][29] customisation, you got to admit it looks pretty cool.
+1. Tmux - I personally use this, tab/window switching is fast as you can use hotkeys. In addition, you can name each tab/window so you can quickly identify which window is doing what. The ability to split a terminal is also useful if you want to multitask and see multiple things at once. With the [oh my tmux!][29] customisation, you got to admit it looks pretty cool too.
 
 
 
@@ -477,6 +477,44 @@ The following will do just that. These scripts all do very similar things, and y
 
 
 
+### 4.3 Bash Aliases
+
+
+
+This section is a full copy and paste from another post I shared previously.
+
+
+
+Sometimes you have many folders that you need to navigate quickly, or long commands that you type. These can be shortened, saving lots of time and gives great convenience in the long run. This is a sample of what I have inside my `/root/.bash_aliases` file. If you don't have it, just create it. After adding aliases in, restart your terminal.
+
+
+
+~~~bash
+# Directories
+
+alias htb='cd ~/0x4a/Hackthebox'
+alias vhl='cd ~/0x4a/VirtualHackingLabs'
+alias pwk='cd ~/0x4a/PWK'
+alias scripts='cd ~/Try-Harder/Scripts'
+alias linenum='cd ~/Try-Harder/Scripts/Linux-PrivEsc'
+alias hostlse='cd ~/Try-Harder/Scripts/Linux-PrivEsc && python -m SimpleHTTPServer'
+alias armoury='cd ~/The-Armoury'
+
+# vpn
+
+alias ovpn='openvpn ~/0x4a/Hackthebox/openvpn/Dreamscent.ovpn'
+
+# Other
+
+alias hosts='nano /etc/hosts'
+alias tun0='ifconfig tun0 | head -n2'
+alias ppp0='ifconfig ppp0 | head -n2'
+alias pyhttp='python -m SimpleHTTPServer'
+alias clip='xclip -sel clip'
+~~~
+
+
+
 ---
 
 tl;dr - Just watch Ippsec.
@@ -485,11 +523,13 @@ tl;dr - Just watch Ippsec.
 
 
 
-That's all I have for you beautiful people for now. I wrote this guide within a single day and may have missed out a couple of things. I'll add a changelog below in case I decide to add stuff in here.
+That's all I have for you beautiful people for now. I wrote this guide in a single stretch and may have missed out a couple of things. I'll add a changelog below in case I decide to add stuff in here.
+
+Whether you've already started, or are thinking of starting your OSCP journey, what I shared here are some of the things I, and I believe some of my peers wish they knew when they first started out.
 
 
 
-This is a very difficult time for the world, stay safe!
+This is a very difficult time for the world. Stay safe, and good luck on your endeavors!
 
 
 
@@ -503,7 +543,7 @@ Changelog:
 
 
 
-v1.4 - 04/06/2020 - Added screenshots for tmux and tabbed terminals
+v1.4 - 04/06/2020 - Added screenshots for tmux and tabbed terminals, section on bash aliases
 
 v1.3 - 03/06/2020 - Added link to PTS(eJPT) course, BOF update
 
