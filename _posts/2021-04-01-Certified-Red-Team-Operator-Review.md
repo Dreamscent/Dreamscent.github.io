@@ -4,7 +4,7 @@ title:      "Certified Red Team Operator (CRTO) Course Review"
 date:       2021-04-01 23:23:23
 author:     J
 summary:    Well that was fun
-categories: Active Directory
+categories: "Red Teaming"
 thumbnail:  graduation-cap
 tags:
  - Red Team
