@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Certified Red Team Operator (CRTO) Course Review"
-date:       2020-04-01 23:23:23
+date:       2021-04-01 23:23:23
 author:     J
 summary:    Well that was fun
 categories: Active Directory
