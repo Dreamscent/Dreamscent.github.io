@@ -28,7 +28,7 @@ As some may know, I recently completed the **Certified Red Team Operator** cours
 
 
 
-![Badge](/images/crto/badge.png)
+![Badge](/images/CRTO/badge.png)
 
 
 
@@ -115,7 +115,7 @@ The course uses [badgr][5] pathways, where you have to complete modules and subm
 
 
 
-![Badgr](/images/crto/badgr.png)
+![Badgr](/images/CRTO/badgr.png)
 
 
 
