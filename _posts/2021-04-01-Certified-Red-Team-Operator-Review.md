@@ -131,6 +131,10 @@ For most, I believe 60 days would be a comfortable timeframe to complete the cou
 
 
 
+---
+
+
+
 ## The competitors
 
 
@@ -228,6 +232,8 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 
 
+---
+
 
 
 ## The Exam
@@ -259,7 +265,11 @@ Of course, passing the exam alone did not equate to the CRTO certification, so I
 
 
 
-## Final words
+---
+
+
+
+## Some final thoughts
 
 Overall, I think this is by far one of the best courses I have ever done, as well as the most fun(and sometimes frustrating). It's cost may seem high at first compared to the offerings from Pentesteracademy, but don't forget that the learning and amount of content provided here is akin to both CRTP and CRTE combined(at least from what I see in the syllabus).
 
