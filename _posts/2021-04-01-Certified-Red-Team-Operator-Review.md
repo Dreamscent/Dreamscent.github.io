@@ -4,12 +4,13 @@ title:      "Certified Red Team Operator Course Review"
 date:       2021-04-01 23:23:23
 author:     J
 summary:    Well that was fun
-categories: Active Directory
+categories: "Active Directory"
 thumbnail:  graduation-cap
 tags:
  - Red Team
  - Zero-Point
  - Covenant
+
 ---
 
 
@@ -297,9 +298,7 @@ J
 [6]: https://www.pentesteracademy.com/activedirectorylab
 [7]: https://www.pentesteracademy.com/redteamlab
 [8]: https://elearnsecurity.com/product/ecptx-certification/
-
 [9]: https://www.offensive-security.com/pen300-osep/
-
 [10]: https://www.pentesteracademy.com/gcb
 
 
