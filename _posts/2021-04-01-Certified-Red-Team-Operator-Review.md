@@ -168,7 +168,7 @@ It's a sequal to the above CRTP, expanding on the concepts with a few more techn
 
 
 
-This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. Based  on `this review` written by a guy who has both CRTO and PTX(but v1), he rates them both as *intermediate* level. But I would definitely say the PTX is tougher.
+This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. Based  on [this review][https://github.com/ryan412/ADLabsReview] written by a guy who has both CRTO and PTX(but v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher.
 
 
 
@@ -218,7 +218,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 **The not-so-good:**
 
-- No cert
+- Does not come with a pdf or physical certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
 
 - Covenant is still under development, where there are some instability issues and bugs, and it can cause some frustration here and there.
 
@@ -257,7 +257,7 @@ Of course, passing the exam alone did not equate to the CRTO certification, so I
 
 ## Final words
 
-Overall, I think this is by far one of the best courses I have ever done, as well as the most fun(and sometimes frustrating). It's cost may seem high at first compared to the offerings from Pentesteracademy, but don't forget that the learning provided here is akin to both CRTP and CRTE combined(at least from what I see in the syllabus).
+Overall, I think this is by far one of the best courses I have ever done, as well as the most fun(and sometimes frustrating). It's cost may seem high at first compared to the offerings from Pentesteracademy, but don't forget that the learning and amount of content provided here is akin to both CRTP and CRTE combined(at least from what I see in the syllabus).
 
 
 
@@ -283,18 +283,6 @@ J
 [6]: https://www.pentesteracademy.com/activedirectorylab
 [7]: https://www.pentesteracademy.com/redteamlab
 [8]: https://elearnsecurity.com/product/ecptx-certification/
-
 [9]: https://www.offensive-security.com/pen300-osep/
-
 [10]: https://www.pentesteracademy.com/gcb
-
-
-
-
-
-
-
-
-
-
 
