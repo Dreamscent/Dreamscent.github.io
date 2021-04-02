@@ -242,7 +242,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 
 
-I took the exam at the end of March. It was noteworthy that I had not finished the labs by this point of time, and had a few things I haven't learnt.
+I took the exam at the end of March.  I had not finished the labs by this point of time, and had a few things I haven't learnt. But I was running out of time due to having another course lined up, and the next suitable exam date was a month away, so I decided to just go for it.
 
 
 
