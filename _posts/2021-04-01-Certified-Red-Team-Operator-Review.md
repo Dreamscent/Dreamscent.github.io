@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Certified Red Team Operator (CRTO) Course Review"
-date:       2021-04-01 00:00:00
+title:      "Certified Red Team Operator Course Review"
+date:       2021-04-01 23:23:23
 author:     J
 summary:    Well that was fun
-categories: "Red Teaming"
-thumbnail:  certificate
+categories: Active Directory
+thumbnail:  graduation-cap
 tags:
  - Red Team
  - Zero-Point
@@ -70,11 +70,11 @@ As you can see, there is a fairly wide range of topics that it will cover, and b
 
 
 
-By the end of the course, you will have to take a 48 hour exam, and collect "flags" along the way. At the time of writing, the passing criteria is 3 out of 4 flags. The great thing is, results are almost immediate, and that you do not have to write a report.
+By the end of the course, you will have to take a 48 hour exam, and collect "flags" along the way. At the time of writing, the passing criteria is 3 out of 4 flags. The great thing is that results are almost immediate, and that you do not have to write a report which is great!
 
 
 
-Some companies put emphasis on a quality report and won't give you a passing grade if it's subpar, which is great and can add value to a certification. But on the other hand, some are willing to accept garbage, which is a waste of everyone's time.
+Some companies put emphasis on a quality report and won't give you a passing grade if it's subpar, which adds value to a certification. But on the other hand, some are willing to accept garbage, which is a waste of everyone's time.
 
 
 
@@ -105,7 +105,7 @@ Why? Because to mark a course module as complete, you have to perform and exploi
 
 
 
-For example, say there is a competitor **ABC**. They give you some training materials with 10 modules, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, and still pass the exam. This is why I think the removal of the second option was a good move that adds more value to the certification.
+Let's put this into perspective. For example, imagine there is a competitor **ABC**. They give you some training materials with 10 modules, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, yet still be able to pass the exam and be certified. This would make me question the capabilities of someone with **ABC**'s cert. That's why I think the removal of the second option was a good move that adds more value to the certification.
 
 
 
@@ -140,7 +140,7 @@ Disclaimer, I may have some insights on the following courses and did some resea
 
 
 
-#### Pentesteracademy - Certified Red Ream Professional (CRTO)
+### Pentesteracademy - Certified Red Ream Professional (CRTO)
 
 
 
@@ -152,7 +152,7 @@ This is a fully beginner certification which introduces the student to the world
 
 
 
-#### Pentesteracademy - Certified Red Ream Expert (CRTE)
+### Pentesteracademy - Certified Red Ream Expert (CRTE)
 
 
 
@@ -164,7 +164,7 @@ It's a sequal to the above CRTP, expanding on the concepts with a few more techn
 
 
 
-#### eLearnSecurity - Certified Penetration Tester eXtreme (eCPTXx2)
+### eLearnSecurity - Certified Penetration Tester eXtreme (eCPTXx2)
 
 
 
@@ -176,7 +176,7 @@ This is a course which I have purchased  but have yet to start working on. Based
 
 
 
-####  Offensive Security - Experienced Penetration Tester (OSEP)
+###  Offensive Security - Experienced Penetration Tester (OSEP)
 
 
 
@@ -188,7 +188,7 @@ This is the grand daddy, the only certification course rated as *hard* based on 
 
 
 
-#### Pentesteracademy - Certified Enterprise Security Specialist (PACES)
+### Pentesteracademy - Certified Enterprise Security Specialist (PACES)
 
 
 
