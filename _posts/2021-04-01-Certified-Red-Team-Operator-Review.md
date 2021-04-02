@@ -135,6 +135,10 @@ For most, I believe 60 days would be a comfortable timeframe to complete the cou
 
 
 
+This might be why you're here isn't it? You may be interested in taking up a Red Teaming oriented course, but are considering between several options, and hence are googling around for reviews to decide which you should take. Hopefully this section will help a little.
+
+
+
 Disclaimer, I may have some insights on the following courses and did some research, but have not taken the following courses (or not yet anyway), so take the following with a pinch of salt. 
 
 
@@ -144,7 +148,7 @@ Disclaimer, I may have some insights on the following courses and did some resea
 
 
 
-This is a fully beginner certification which introduces the student to the world of AD exploitation. It covers most of the basic topics and has a fairly heavy emphasis on the command line and powershell. It however does not teach you how to use a Command & Control (C2) server.
+This is a beginner certification which introduces the student to the world of AD exploitation. It covers most of the basic topics and has a fairly heavy emphasis on the command line and powershell. It however does not teach you how to use a Command & Control (C2) server.
 
 
 
@@ -168,7 +172,7 @@ It's a sequal to the above CRTP, expanding on the concepts with a few more techn
 
 
 
-This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. Based  on [this review][https://github.com/ryan412/ADLabsReview] written by a guy who has both CRTO and PTX(but v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher.
+This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. According to [this review][https://github.com/ryan412/ADLabsReview] written by a guy who has both CRTO and PTX(v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher.
 
 
 
@@ -283,6 +287,18 @@ J
 [6]: https://www.pentesteracademy.com/activedirectorylab
 [7]: https://www.pentesteracademy.com/redteamlab
 [8]: https://elearnsecurity.com/product/ecptx-certification/
+
 [9]: https://www.offensive-security.com/pen300-osep/
+
 [10]: https://www.pentesteracademy.com/gcb
+
+
+
+
+
+
+
+
+
+
 
