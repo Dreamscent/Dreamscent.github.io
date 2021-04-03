@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Certified Red Team Operator Course Review"
-date:       2021-04-01 23:23:23
+title:      "Red Team Ops Course Review"
+date:       2021-04-02 23:23:23
 author:     J
 summary:    Well that was fun
-categories: "Active Directory"
+categories: RedTeaming
 thumbnail:  graduation-cap
 tags:
  - Red Team
@@ -17,7 +17,7 @@ tags:
 
 
 
-DISCLAIMER: This post is fresh out the oven and is subject to changes in the coming days. You know, sometimes you're on the toilet and think "oh hey I forgot to write about something".
+DISCLAIMER: This post is fresh out of the oven and is subject to changes in the coming days. You know, sometimes you're on the toilet and think "oh hey I forgot to write about something".
 
 
 
@@ -25,7 +25,7 @@ DISCLAIMER: This post is fresh out the oven and is subject to changes in the com
 
 
 
-As some may know, I recently completed the **Certified Red Team Operator** course by [Zero-Point Security][1]. This is my first foray into the Active Directory exploitation realm and what an experience it has been.
+As some may know, I recently completed the **Red Team Ops** course by [Zero-Point Security][1]. This is my first foray into the Active Directory exploitation realm and what an experience it has been.
 
 
 
@@ -33,7 +33,7 @@ As some may know, I recently completed the **Certified Red Team Operator** cours
 
 
 
-The [Certified Red Team Operator][1] is a fairly new course by Daniel "RastaMouse" Duggan. the same person who created the monster challenge that is Rastalabs. If you have done the OSCP or similar certifications, you may also know him as the author of the Windows enumeration tools *Sherlock* and *Watson*.
+The [Red Team Ops][1] is a fairly new course by Daniel "RastaMouse" Duggan, released somewhere in the second half of 2020. the same person who created the monster challenge that is Rastalabs. If you have done the OSCP or similar certifications, you may also know him as the author of the Windows enumeration tools *Sherlock* and *Watson*. Completion of the course and passing the exam earns you the **Certified Red Team Operator (CRTO)** badge.
 
 
 
@@ -71,17 +71,17 @@ As you can see, there is a fairly wide range of topics that it will cover, and b
 
 
 
-By the end of the course, you will have to take a 48 hour exam, and collect "flags" along the way. At the time of writing, the passing criteria is 3 out of 4 flags. The great thing is that results are almost immediate, and that you do not have to write a report which is great!
+At the end of the course, you will have to take a 48 hour exam, and collect "flags" along the way. At the time of writing, the passing criteria is 3 out of 4 flags. The great thing is that results are almost immediate, and that you do not have to write a report. Awesome!
 
 
 
-In addition, Zero-Point Security is a [CREST member][4] company, which means that when this certification gains traction, it's certification may hold some additional value in countries where CREST has a large presence such as the UK, Hong Kong, and Singapore.
+In addition, Zero-Point Security is a [CREST training partner][4] company, which means that when this certification gains traction, HOPEFULLY it's certification may hold some additional value in countries where CREST has a large presence such as the UK, Hong Kong, and Singapore.  As a lifelong student, I'm not a big fan of expiring certifications, so I'd be much more willing to spend my own hard earned money on attaining the CRTO, eCPTX or OSEP over something like the CCT (infra), CCSAS(simulated attack specialist), or whatever SANS has to offer in this domain.
 
 
 
 
 
-## The course structure
+## Red Team Ops
 
 
 
@@ -89,8 +89,8 @@ When the course was first launched, there were two pathways one can take to atta
 
 
 
-1. Complete the course, and pass the exam
-2. Attain the OSCP, then take and pass the exam
+1. Complete the course,AND pass the exam (just passing the exam without clearing the labs would not work)
+2. Attain the OSCP, then take and pass the exam (discontinued)
 
 
 
@@ -103,8 +103,6 @@ Why? Because to mark a course module as complete, you have to perform and exploi
 
 
 Let's put this into perspective. For example, imagine there is a competitor **ABC**. They give you some training materials with 10 modules, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, yet still be able to pass the exam and be certified. This would make me question the capabilities of someone with **ABC**'s cert. That's why I think the removal of the second option was a good move that adds more value to the certification.
-
-
 
 
 
@@ -136,7 +134,7 @@ For most, I believe 60 days would be a comfortable timeframe to complete the cou
 
 
 
-## The competitors
+## The Competitors
 
 
 
@@ -189,7 +187,7 @@ This is a course which I have purchased  but have yet to start working on. Based
 
 
 
-This is the grand daddy, the only certification course rated as *hard* based on the above review(gosh he has done everything). On top of active directory exploitation, this is VERY defense evasion heavy, which is great because in a real Red Teaming engagement, you must be able to perform your activities without being caught by various blue team tools and software.
+This is the grand daddy, the only certification course rated as *hard* based on the above review(gosh he has done everything). On top of active directory exploitation, this appears to be VERY defense evasion heavy, which is great because in a real Red Teaming engagement, you must be able to perform your activities without being caught by various blue team tools and software.
 
 
 
@@ -210,17 +208,17 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 ---
 
-## The good and bad
+## The summary
 
 
 
-**The good:**
+**The Good:**
 
-- Dedicated friendly and active slack channel where Daniel the man himself is there to assist
+- Dedicated friendly and active slack channel where the man himself is there to assist. When he is not around, the fellow studens are really helpful and friendly as well
 
-- Lab connection is fast and stable, load balancing
+- Lab connection is fast and stable, load balancing measures are in place to prevent overloading of students.
 
-- Lifetime access and to the latest course updates
+- Lifetime access to the latest course updates
 
 - Certification does not expire
 
@@ -230,7 +228,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 - Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
 
-- Covenant is still under development, where there are some instability issues and bugs, and it can cause some frustration here and there.
+- Covenant is still under development(v0.7 as of time of writing), where there are some instability issues and bugs, and it can cause some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
 
 
 
@@ -255,11 +253,11 @@ In less than a few hours, I had the first flag under my belt. However, due to so
 
 
 
-Once I got through, the second and third flags fell rather quickly, allowing me to get my passing score by the 30 or so hour mark(can't remember the exact time though). By then, I was tired and fairly pissed at the issues I was having(I had to reset Covenant 3 times during my exam in total because everything became unresponsive, and start from scratch to regain all my lost Grunts(which is sort of like a shell on the targets)). I knew where the last flag was, and how to get it, but Covenant decided to crap out on me again, so I called it a day.
+Once I got through, the second and third flags fell rather quickly, allowing me to get my passing score by the 30th or so hour(can't remember the exact time though). By then, I was tired and fairly pissed at the issues I was having(I had to reset Covenant 3 times during my exam in total because everything became unresponsive, and start from scratch to regain my progress. I knew where the last flag was, and how to get it, but Covenant decided to crap out on me again, so I called it a day.
 
 
 
-All in all, my total exam time was definitely much slower than most(I read that the average is below 24 hours comfortably). If not for the issues I faced, I most likely would have done it in less than 6-8 hours. Perhaps even faster if I actually completed the labs prior to the exam, as there were some things I had to learn on the spot.
+All in all, my total exam time was definitely much slower than most(I read that the average is below 24 hours comfortably). If not for the issues I faced, I believe below 10 hours was a very realistic target. Perhaps even faster if I actually completed the labs prior to the exam, as there were some things I had to learn on the spot.
 
 
 
