@@ -17,7 +17,7 @@ tags:
 
 
 
-DISCLAIMER: This is still a draft and is subject to changes in the coming days
+DISCLAIMER: This post is fresh out the oven and is subject to changes in the coming days. You know, sometimes you're on the toilet and think "oh hey I forgot to write about something".
 
 
 
@@ -75,10 +75,6 @@ By the end of the course, you will have to take a 48 hour exam, and collect "fla
 
 
 
-Some companies put emphasis on a quality report and won't give you a passing grade if it's subpar, which adds value to a certification. But on the other hand, some are willing to accept garbage, which is a waste of everyone's time.
-
-
-
 In addition, Zero-Point Security is a [CREST member][4] company, which means that when this certification gains traction, it's certification may hold some additional value in countries where CREST has a large presence such as the UK, Hong Kong, and Singapore.
 
 
@@ -128,6 +124,10 @@ For myself I purchased 30 days back in August 2020(6 months ago), but was unable
 
 
 
+The course materials are web-based instead of a downloadable pdf, and is constantly being updated by Daniel. During the 6 or so months since I first purchased the course, the course materials had been updated several times! So by enrolling into this, you know that your materials will not be obselete over time, unlike some competitors who release a v2, v3 etc of their course every other year and force you to pay if you want the updated stuff.
+
+
+
 For most, I believe 60 days would be a comfortable timeframe to complete the course. But if you have a ton of free time, or have prior experience, go for the 30 day package.
 
 
@@ -165,7 +165,7 @@ This is a beginner certification which introduces the student to the world of AD
 
 
 
-It's a sequal to the above CRTP, expanding on the concepts with a few more techniques, and is more of an intermediate level course which requires some prior AD exploitation knowledge.
+It's a sequal to the above CRTP, expanding on the concepts with a few more techniques, and is more of an intermediate level course which requires some prior AD exploitation knowledge before enrollment.
 
 
 
@@ -218,17 +218,17 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 - Dedicated friendly and active slack channel where Daniel the man himself is there to assist
 
-- lab connection is fast and stable, load balancing
+- Lab connection is fast and stable, load balancing
 
-- lifetime access and to the latest course updates
+- Lifetime access and to the latest course updates
 
-- certification does not expire
+- Certification does not expire
 
 
 
-**The not-so-good:**
+**Room for improvement:**
 
-- Does not come with a pdf or physical certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
+- Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
 
 - Covenant is still under development, where there are some instability issues and bugs, and it can cause some frustration here and there.
 
@@ -301,14 +301,3 @@ J
 [8]: https://elearnsecurity.com/product/ecptx-certification/
 [9]: https://www.offensive-security.com/pen300-osep/
 [10]: https://www.pentesteracademy.com/gcb
-
-
-
-
-
-
-
-
-
-
-
