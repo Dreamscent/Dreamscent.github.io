@@ -234,7 +234,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 **Room for improvement:**
 
 - Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
-- Covenant is still under development(v0.7 as of time of writing), andthere are some instability issues and bugs, causing some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
+- Covenant is still under development(v0.7 as of time of writing), and there are some instability issues and bugs, causing some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
 - Honestly I cannot find any faults with this course, because I have nothing but praises for it.
 
 
