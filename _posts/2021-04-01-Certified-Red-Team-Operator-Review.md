@@ -120,7 +120,7 @@ The course materials are web-based instead of a downloadable pdf, and is constan
 
 
 
-As I have also mentioned, this course is one of, if not the only course that is built around the [Covenant][3] .NET based C2 server, by Ryan Cobb of Spectreops. If you don't know Spectreops, they are the team that authored [some of the most used tools][https://specterops.io/resources/research-and-development] in the industry. That's quite some credentials pushing the development of this C2 if you ask me.
+As I have also mentioned, this course is one of, if not the only course that is built around the [Covenant][3] .NET based C2 server, by Ryan Cobb of Spectreops. If you don't know Spectreops, they are the team that authored [some of the most used tools][11] in the industry. That's quite some credentials pushing the development of this C2 if you ask me.
 
 
 
@@ -181,7 +181,7 @@ It's a sequel to the above CRTP, expanding on the concepts with a few more techn
 
 
 
-This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. According to [this review][https://github.com/ryan412/ADLabsReview] written by a guy who has both CRTO and PTX(v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher.
+This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. According to [this review][12] written by a guy who has both CRTO and PTX(v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher.
 
 
 
@@ -310,3 +310,5 @@ J
 [8]: https://elearnsecurity.com/product/ecptx-certification/
 [9]: https://www.offensive-security.com/pen300-osep/
 [10]: https://www.pentesteracademy.com/gcb
+[11]: https://specterops.io/resources/research-and-development
+[12]: https://github.com/ryan412/ADLabsReview
