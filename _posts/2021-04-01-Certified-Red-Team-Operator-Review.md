@@ -126,6 +126,10 @@ The course materials are web-based instead of a downloadable pdf, and is constan
 
 
 
+As I have also mentioned, this course is one of, if not the only course that is built around the [Covenant][3] C2 server, by Ryan Cobb of Spectreops. If you don't know Spectreops, they are the team that authored [some of the most used tools][https://specterops.io/resources/research-and-development] in the industry. That's quite some credentials pushing the development of this C2 if you ask me.
+
+
+
 For most, I believe 60 days would be a comfortable timeframe to complete the course. But if you have a ton of free time to study, or have prior experience, go for the 30 day package.
 
 
@@ -223,12 +227,10 @@ I have very limited information on this one, but it seems to be of a high diffic
 **The Good:**
 
 - Dedicated friendly and active slack channel where the man himself is there to assist. When he is not around, the fellow studens are really helpful and friendly as well
-
 - Lab connection is fast and stable, load balancing measures are in place to prevent overloading of students.
-
 - Lifetime access to the latest course updates
-
 - Certification does not expire
+- Teaches you how to use a C2
 
 
 
