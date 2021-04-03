@@ -227,7 +227,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 - Lifetime access to the latest course updates
 - Certification does not expire
 - Teaches you how to use a C2
-
+<br>
   
 
   
