@@ -108,7 +108,7 @@ The course uses [badgr][5] pathways, where you have to complete modules and subm
 
 
 
-You may purchase the labs in 30, 60, or 90 day durations, and it comes with an exam attempt. As of time of writing, lab time extensions also give an additional exam attempt.
+You may purchase the labs in 30, 60, or 90 day durations, and it comes with an exam attempt. As of time of writing, lab time extensions also give an additional exam attempt. In the first few months of the course, it was difficult to even purchase the course due to it being always fully booked; I had to camp the purchase page for several days to be able to snag a spot in this course. Thankfully lab capacity has been increased over time, so it's quite a lot easier to enrol in RTO now.
 
 
 
