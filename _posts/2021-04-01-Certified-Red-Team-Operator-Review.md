@@ -14,13 +14,6 @@ tags:
 ---
 
 
-
-
-
-DISCLAIMER: This post is fresh out of the oven and is subject to changes in the coming days. You know, sometimes you're on the toilet and think "oh hey I forgot to write about something".
-
-
-
 ## An Introduction
 
 
@@ -102,7 +95,7 @@ Why? Because to mark a course module as complete, you have to perform and exploi
 
 
 
-Let's put this into perspective. For example, imagine there is a competitor **ABC**. They give you some training materials with 10 modules, each teaching a type of AD attack, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, yet still be able to pass the exam and be certified. This would make me question the capabilities of someone with **ABC**'s cert. That's why I think the removal of the second option was a good move that adds more value to the certification.
+Let's put this into perspective. For example, imagine there is a competitor **ABC**. They give you some training materials with 10 modules, each teaching a type of AD attack, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, yet still be able to pass the exam and be certified. This would make me question the capabilities of someone with **ABC**'s cert. That's why I think the removal of the second option was a good move that adds more credibility to the holder of the CRTO.
 
 
 
@@ -114,11 +107,11 @@ The course uses [badgr][5] pathways, where you have to complete modules and subm
 
 
 
-You may purchase the labs in 30, 60, or 90 day denominations, and it comes with an exam attempt. As of time of writing, lab time extensions also give an additional exam attempt.
+You may purchase the labs in 30, 60, or 90 day durations, and it comes with an exam attempt. As of time of writing, lab time extensions also give an additional exam attempt.
 
 
 
-For myself I purchased 30 days back in August 2020(6 months ago), but was unable to finish the labs in time. I later purchased another 2x 15 day extensions, because my day job started to require quite a lot of overtime.
+For myself I purchased 30 days back in August 2020(6 months ago), but was unable to finish the labs in time. I later purchased another two 15 day extensions in order to finish the labs; one towards the year end of 2020 and one in March 2021 because I had quite some work piled up on my day job.
 
 
 
@@ -130,7 +123,7 @@ As I have also mentioned, this course is one of, if not the only course that is 
 
 
 
-For most, I believe 60 days would be a comfortable timeframe to complete the course. But if you have a ton of free time to study, or have prior experience, go for the 30 day package.
+For most, I believe 60 days would be a comfortable timeframe to complete the course. But if you have a ton of free time to study or have prior experience, go for the 30 day package.
 
 
 
@@ -142,11 +135,11 @@ For most, I believe 60 days would be a comfortable timeframe to complete the cou
 
 
 
-This might be why you're here isn't it? You may be interested in taking up a Red Teaming oriented course, but are considering between several options, and hence are googling around for reviews to decide which you should take. Hopefully this section will help a little.
+This might be why you're here isn't it? You may be interested in taking up a Red Teaming oriented course, but are considering between several options, and hence are googling around for reviews to decide which you should take. Understandably due to how new this course is, reviews on the RTO course may not be as easily found as some of the competition. Hopefully this section will help a little with your decision making. 
 
 
 
-Disclaimer, I may have some insights on the following courses and did some research, but have not taken the following courses (or not yet anyway), so take the following with a pinch of salt. 
+Before going on to read this section, please note that I may have some insights on the following courses and did some research, but have not taken the following courses (or not yet anyway), so take the following with a pinch of salt. 
 
 
 
@@ -159,7 +152,7 @@ This is a beginner certification which introduces the student to the world of AD
 
 
 
-Most CRTP holders I've spoken to says this course/certification is easy and I should take it.  I agree that they do have pretty good study materials. but however I'm fairly serious about wanting to get good at this red teaming thing, so an "easy" cert was not what I was looking for.
+Most CRTP holders I've spoken to says this course/certification is easy and I should take it, and  I agree that they do have pretty good study materials. But however I'm fairly serious about wanting to get good at this red teaming thing, so an "easy" cert was not what I was looking for.
 
 
 
@@ -175,7 +168,7 @@ If you want a quick resume filler or just want to learn the basics of  AD exploi
 
 
 
-It's a sequal to the above CRTP, expanding on the concepts with a few more techniques, and is more of an intermediate level course which requires some prior AD exploitation knowledge before enrollment. I would have seriously considered taking this one but I had almost zero knowledge on AD exploitation back then.
+It's a sequel to the above CRTP, expanding on the concepts with a few more techniques, and is more of an intermediate level course which requires some prior AD exploitation knowledge before enrollment. I would have seriously considered taking this one but I had almost zero knowledge on AD exploitation back then.
 
 
 
@@ -220,7 +213,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 ---
 
-## The summary
+## RTO in a nutshell
 
 
 
@@ -232,9 +225,11 @@ I have very limited information on this one, but it seems to be of a high diffic
 - Certification does not expire
 - Teaches you how to use a C2
 
+  
 
+  
 
-**Room for improvement:**
+  **Room for improvement:**
 
 - Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
 - Covenant is still under development(v0.7 as of time of writing), where there are some instability issues and bugs, and it can cause some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
@@ -258,12 +253,12 @@ At the start time, my VPN connection files were sent to me via email promptly an
 
 
 
-In less than a few hours, I had the first flag under my belt. However, due to some strange issue, I was stuck at a particular machine for about 24 hours(including sleep and meals of course). I had consulted the course materials, the tool documentation, various reputable guides and blogs on the topic, but the commands used just could not work. In the end, I could only achieve it via some other weird way. It was a very straightforward task, but till today, I still don't know if there was an issue with the exam machine, my tool, or just me being bad at what I do. Perhaps I will never know.
+In less than a few hours, I had the first flag under my belt. However, due to some strange issue, I was stuck at a particular task for about 24 hours(including sleep and meals of course). I had consulted the course materials, the tool documentation and various reputable guides and blogs on the topic, but the commands used just could not work. In the end, I could only achieve it via some other weird way. It was a very straightforward task, but till today, I still don't know if there was an issue with the exam machine, my tool, or just me being bad at what I do. Perhaps I will never know.
 
 
 
 
-Once I got through, the second and third flags fell rather quickly, allowing me to get my passing score by the 30th or so hour(can't remember the exact time though). By then, I was tired and fairly pissed at the issues I was having(I had to reset Covenant 3 times during my exam in total because everything became unresponsive, and start from scratch to regain my progress. I knew where the last flag was, and how to get it, but Covenant decided to crap out on me again, so I called it a day.
+Once I got through, the second and third flags fell rather quickly, allowing me to get my passing score by the 30th or so hour. By then, I was tired and fairly pissed at the issues I was having(I had to reset Covenant 3 times during my exam in total because everything became unresponsive, and start from scratch to regain my progress). I knew where the last flag was, and how to get it, but Covenant decided to crap out on me again, so I called it a day.
 
 
 
