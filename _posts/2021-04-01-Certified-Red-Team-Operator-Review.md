@@ -98,11 +98,11 @@ However, during the recent months, the second option was removed. And I feel thi
 
 
 
-Why? Because to mark a course module as complete, you have to perform and exploit the vulnerability/misconfiguration within the labs to attain a flag. This ensures that the student knows how each attack is performed. As you can see, there are way more than 10 modules in the syllabus above. 
+Why? Because to mark a course module as complete, you have to perform and exploit the vulnerability/misconfiguration within the labs to attain a flag. This ensures that the student actually knows how each attack is performed, and is able to successfully replicate it. 
 
 
 
-Let's put this into perspective. For example, imagine there is a competitor **ABC**. They give you some training materials with 10 modules, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, yet still be able to pass the exam and be certified. This would make me question the capabilities of someone with **ABC**'s cert. That's why I think the removal of the second option was a good move that adds more value to the certification.
+Let's put this into perspective. For example, imagine there is a competitor **ABC**. They give you some training materials with 10 modules, each teaching a type of AD attack, and an exam that tests only 3-5 of the attacks. A student can theoretically not understand half the things taught at all, yet still be able to pass the exam and be certified. This would make me question the capabilities of someone with **ABC**'s cert. That's why I think the removal of the second option was a good move that adds more value to the certification.
 
 
 
@@ -122,11 +122,11 @@ For myself I purchased 30 days back in August 2020(6 months ago), but was unable
 
 
 
-The course materials are web-based instead of a downloadable pdf, and is constantly being updated by Daniel. During the 6 or so months since I first purchased the course, the course materials had been updated several times! So by enrolling into this, you know that your materials will not be obselete over time, unlike some competitors who release a v2, v3 etc of their course every other year and force you to pay if you want the updated stuff.
+The course materials are web-based instead of a downloadable pdf, and is constantly being updated. During the 6 or so months since I first purchased the course, the course materials had been updated several times! So by enrolling into this, you know that your materials will not become obselete over time. In comparison, some competitors release a v2, v3 etc of their course every other year and force you to pay if you want the updated stuff.
 
 
 
-For most, I believe 60 days would be a comfortable timeframe to complete the course. But if you have a ton of free time, or have prior experience, go for the 30 day package.
+For most, I believe 60 days would be a comfortable timeframe to complete the course. But if you have a ton of free time to study, or have prior experience, go for the 30 day package.
 
 
 
@@ -147,11 +147,19 @@ Disclaimer, I may have some insights on the following courses and did some resea
 
 
 
-### Pentesteracademy - Certified Red Ream Professional (CRTO)
+### Pentesteracademy - Certified Red Ream Professional (CRTP)
 
 
 
 This is a beginner certification which introduces the student to the world of AD exploitation. It covers most of the basic topics and has a fairly heavy emphasis on the command line and powershell. It however does not teach you how to use a Command & Control (C2) server.
+
+
+
+Most CRTP holders I've spoken to says this course/certification is easy and I should take it.  I agree that they do have pretty good study materials. but however I'm fairly serious about wanting to get good at this red teaming thing, so an "easy" cert was not what I was looking for.
+
+
+
+If you want a quick resume filler or just want to learn the basics of  AD exploitation, this would definitely be the one to go for.
 
 
 
@@ -163,7 +171,7 @@ This is a beginner certification which introduces the student to the world of AD
 
 
 
-It's a sequal to the above CRTP, expanding on the concepts with a few more techniques, and is more of an intermediate level course which requires some prior AD exploitation knowledge before enrollment.
+It's a sequal to the above CRTP, expanding on the concepts with a few more techniques, and is more of an intermediate level course which requires some prior AD exploitation knowledge before enrollment. I would have seriously considered taking this one but I had almost zero knowledge on AD exploitation back then.
 
 
 
@@ -227,8 +235,8 @@ I have very limited information on this one, but it seems to be of a high diffic
 **Room for improvement:**
 
 - Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
-
 - Covenant is still under development(v0.7 as of time of writing), where there are some instability issues and bugs, and it can cause some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
+- Honestly I cannot find any faults with this course, because I have nothing but praises for it.
 
 
 
@@ -271,11 +279,15 @@ Of course, passing the exam alone did not equate to the CRTO certification, so I
 
 ## Some final thoughts
 
-Overall, I think this is by far one of the best courses I have ever done, as well as the most fun(and sometimes frustrating). It's cost may seem high at first compared to the offerings from Pentesteracademy, but don't forget that the learning and amount of content provided here is akin to both CRTP and CRTE combined(at least from what I see in the syllabus).
+Overall, I think this is by far one of the best courses I have ever done, as well as the most fun(and sometimes frustrating). It's cost may seem high at first compared to the offerings from for example Pentesteracademy, but don't forget this is both a beginner AND intermediate course in one.
 
 
 
-I would definitely recommend this to anyone who wants to try to start dipping their toes in to the world of Red Teaming and Active Directory exploitation. If you have complete the labs, you definitely would have more than enough knowledge and skills to pass exam. If anything, the labs are harder than the exam itself!
+I would definitely recommend this to anyone who is genuinely interested in getting in the world of Red Teaming and Active Directory exploitation. If you have complete the labs, you definitely would have more than enough knowledge and skills to pass exam. If anything, the labs are harder than the exam itself!
+
+
+
+The eCPTXv2 and OSEP are currently on my to-do list, so I may be able to provide more comparisons based on first hand experience in future.
 
 
 
