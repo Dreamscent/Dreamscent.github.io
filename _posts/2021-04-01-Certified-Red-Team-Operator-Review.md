@@ -14,6 +14,7 @@ tags:
 ---
 
 
+
 ## An Introduction
 
 
@@ -215,6 +216,8 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 ## RTO in a nutshell
 
+  
+
 
 
 **The Good:**
@@ -229,7 +232,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 
   
 
-  **Room for improvement:**
+**Room for improvement:**
 
 - Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
 - Covenant is still under development(v0.7 as of time of writing), where there are some instability issues and bugs, and it can cause some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
