@@ -181,7 +181,7 @@ It's a sequel to the above CRTP, expanding on the concepts with a few more techn
 
 
 
-This is a course which I have purchased  but have yet to start working on. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. According to [this review][12] written by a guy who has both CRTO and PTX(v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher.
+This is a course which I have purchased  but have yet to sink my teeth into. Based on the course materials, this mostly overlaps with the CRTO's syllabus, but  goes a bit further. According to [this review][12] written by a guy who has both CRTO and PTX(v1), he rates them both as *intermediate* in terms of difficulty. But I would definitely say the PTX is tougher. On another note, eLS labs are pretty bad from what I hear.
 
 
 
@@ -220,7 +220,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 
 **The Good:**
 
-- Dedicated friendly and active slack channel where the man himself is there to assist. When he is not around, the fellow studens are really helpful and friendly as well
+- Dedicated friendly and active slack channel where the man himself is there to assist. When he is not around, the fellow students are really helpful and friendly as well
 - Lab connection is fast and stable, load balancing measures are in place to prevent overloading of students.
 - Lifetime access to the latest course updates
 - Certification does not expire
@@ -234,7 +234,7 @@ I have very limited information on this one, but it seems to be of a high diffic
 **Room for improvement:**
 
 - Does not come with a certificate, just a badge. Zero-Point has a really nice logo so a certificate with would look pretty neat in a CV.
-- Covenant is still under development(v0.7 as of time of writing), where there are some instability issues and bugs, and it can cause some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
+- Covenant is still under development(v0.7 as of time of writing), andthere are some instability issues and bugs, causing some frustration here and there. There are some QOL improvements that are available to RTO students which I will not share here :)
 - Honestly I cannot find any faults with this course, because I have nothing but praises for it.
 
 
