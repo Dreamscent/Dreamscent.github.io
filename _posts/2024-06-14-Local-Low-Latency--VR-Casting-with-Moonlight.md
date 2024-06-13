@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Local Low Latency Video Streaming with Sunshine/Moonlight"
-date:       2024-06-13 00:10:00
+title:      "Local Low Latency VR Casting with Moonlight"
+date:       2024-06-13 22:43:00
 author:     J
 summary:    Streaming with low latency!
 categories: Misc
-thumbnail:  vr-cardboard
+thumbnail:  check
 tags:
  - VR
  - Gaming
