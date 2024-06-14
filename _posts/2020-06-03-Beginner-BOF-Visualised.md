@@ -45,7 +45,7 @@ When an application takes an input, it gets put into the application's memory li
 
 
 
-![bof1 image](/images/BOF/bof1.png)
+![bof1 image](/images/2020/BOF/bof1.png)
 
 
 
@@ -66,7 +66,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 It will get filled and look something like this:
 
-![bof2 image](/images/BOF/bof2.png)
+![bof2 image](/images/2020/BOF/bof2.png)
 
 After we inject our alphabet, we can see that the `EIP` contains `KLMN`. We know that `KLMN` appears at offset ***10*** in the unique string, so the buffer should be 10! To confirm this, we put our own crafted string inside. We start with 10 A's. followed by 4 B's, and fill the rest with C's
 
@@ -77,7 +77,7 @@ AAAAAAAAAABBBBCCCCCCCCCCCC
 
 In hex representation, A is *41*, B is *42*, and C is *43*. So in theory, it will look like this:
 
-![bof3 image](/images/BOF/bof3.png)
+![bof3 image](/images/2020/BOF/bof3.png)
 
 
 
@@ -90,13 +90,13 @@ There is a catch! Sometimes things don't go as smoothly as you'd like. There mig
 AAAAAAAAAABBBB <then every possible character here>
 ~~~
 
-![bof4 image](/images/BOF/bof4.png)
+![bof4 image](/images/2020/BOF/bof4.png)
 
 
 
 Inside a debugger, we look at the stack see that **D** and **2** were corrupted and replaced with something else.... so we know these are the bad characters, so we should exclude them when creating our shellcode.
 
-![bof5 image](/images/BOF/bof5.png)
+![bof5 image](/images/2020/BOF/bof5.png)
 
 
 
@@ -114,7 +114,7 @@ Now you need to know what the registers actually do and mean. A simplified expla
 We then find out where we can find an instruction that says `JMP ESP`, which basically means *JuMP to ESP*. For example, we find a `JMP ESP` at location `1234`.
 
 
-![bof6 image](/images/BOF/bof6.png)
+![bof6 image](/images/2020/BOF/bof6.png)
 
 
 
@@ -126,7 +126,7 @@ AAAAAAAAAA<JMP ESP location><shellcode>
 ~~~
 
 
-![bof7 image](/images/BOF/bof7.png)
+![bof7 image](/images/2020/BOF/bof7.png)
 
 
 

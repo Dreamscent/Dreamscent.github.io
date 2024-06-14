@@ -15,7 +15,7 @@ tags:
 I may be behind schedule in what I initially planned last year, but I have completed both Virtual Hacking Labs Certifications. Those who know me personally would know that I had some issues in real life which affected my morale late last year. This eventually led to me missing out completing both certifications by 3 Advanced+ machines. An extension was made for 1 month for report writing(and redoing screenshots if needed).
 
 
-![Certificates](/images/VHL/VHL-CoC.png)
+![Certificates](/images/2020/VHL/VHL-CoC.png)
 
 In summary, the [Virtualhackinglabs][1] course is truly quite an experience. For the price, it definitely is a worthwhile starting point for people looking into obtaining the OSCP, to taste what it has to offer. However, if you you have some prior knowledge of the general methodolgies, and a familiarity in the linux operating system, a 3 month subscription to PWK is definitely sufficient. The advantage of having an extra VHL is the chance to take a break in between, as having a full 3 month commitment to PWK can be mentally exhausting for some.
 

@@ -114,7 +114,7 @@ I blazed through it, taking ***1 hour 4 minutes*** to clear the first 54 questio
 
 
 
-### ![](../images/2024/GXPN/67.png)
+### ![PT1](/images/2024/GXPN/67.png)
 
 
 
@@ -162,7 +162,7 @@ The result?
 
 
 
-### ![](../images/2024/GXPN/79.png)
+### ![PT2](/images/2024/GXPN/79.png)
 
 
 
@@ -211,7 +211,7 @@ In the end, this was my final result:
 
 
 
-![](../images/2024/GXPN/88.png)
+![ExamResult](/images/2024/GXPN/88.png)
 
 
 

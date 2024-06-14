@@ -23,7 +23,7 @@ As some may know, I recently completed the **Red Team Ops** course by [Zero-Poin
 
 
 
-![Badge](/images/CRTO/badge.png)
+![Badge](/images/2021/CRTO/badge.png)
 
 
 
@@ -104,7 +104,7 @@ The course uses [badgr][5] pathways, where you have to complete modules and subm
 
 
 
-![Badgr](/images/CRTO/badgr.png)
+![Badgr](/images/2021/CRTO/badgr.png)
 
 
 

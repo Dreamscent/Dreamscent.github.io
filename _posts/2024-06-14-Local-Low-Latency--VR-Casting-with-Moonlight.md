@@ -169,10 +169,15 @@ If you have a mouse connected to the Moonlight client, you may launch the game t
 
 3. Browser to the folder, run `installcert.bat` as admin
 
-4. Device Manager -> Action -> Install legacy hardware -> have disk -> go the the ldddisplaydriver -> Finish
+![InstallCert](/images/2024/Moonlight/installcert.png)
 
-5. On Desktop, right click and view Display Settings. You should see a new monitor that that doesn't physically exist. Change the new monitor to some low-ish resolution like 720p or something (Don't forget to set  Beat Saber the same resolution or lower from in-game settings later). This will reduce the load on your GPU as the stream doesn't require that high a resolution. If you use a Shield TV Pro or similar, the stream will be automatically upscaled anyway.
-6. Select the new monitor, select `Extend Desktop to this display`, then position it to the left or right of an existing monitor. Take note of where it is, in case you lose your mouse cursor and need to move windows around.  Because this monitor doesn't physically exist, you will not be able to see what's on it.
+1. Device Manager -> Action -> Install legacy hardware -> have disk -> go the the ldddisplaydriver -> Finish
+
+2. On Desktop, right click and view Display Settings. You should see a new monitor that that doesn't physically exist. Change the new monitor to some low-ish resolution like 720p or something (Don't forget to set  Beat Saber the same resolution or lower from in-game settings later). This will reduce the load on your GPU as the stream doesn't require that high a resolution. If you use a Shield TV Pro or similar, the stream will be automatically upscaled anyway.
+
+![Display3](/images/2024/Moonlight/display3.png)
+
+1. Select the new monitor, select `Extend Desktop to this display`, then position it to the left or right of an existing monitor. Take note of where it is, in case you lose your mouse cursor and need to move windows around.  Because this monitor doesn't physically exist, you will not be able to see what's on it.
 
 
 
@@ -201,6 +206,10 @@ Because Sunshine by default streams the main monitor, we will have to configure 
 
 
 Go to `Configuration` -> `Audio/Video` -> fill `Adapter Name` and `Output Name`
+
+
+
+![SunshineConfig](/images/2024/Moonlight/sunshineconfig.png)
 
 
 
@@ -236,6 +245,14 @@ For `Output Name`, it would be the monitor to display. You should be able to gue
     Output Name       : \\.\DISPLAY8
     AttachedToDesktop : yes
     Resolution        : 1280x720
+
+
+
+For completeness, this is how the entire output looks like and what you should look for:
+
+
+
+![dxgi](/images/2024/Moonlight/dxgi.png)
 
 
 
@@ -277,7 +294,7 @@ If you need to get it back on a real monitor, `win or alt` + `tab`, select the B
 
 
 
-![](../images/2024/moonlight/moonlatency.jpg)
+![MoonLatency](/images/2024/moonlight/moonlatency.jpg)
 
 
 
