@@ -17,7 +17,7 @@ Writeup was just retired today. I found  this to be a pretty good box for learni
 
 
 
-![1570840239316](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570840239316.png)
+![1570840239316](/images/2019/HTB-Writeup/1570840239316.png)
 
 
 
@@ -60,7 +60,7 @@ Opening up the webpage in the browser shows a static HTML page stating that the 
 
 
 
-![1570845202562](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570845202562.png)
+![1570845202562](/images/2019/HTB-Writeup/1570845202562.png)
 
 
 
@@ -68,7 +68,7 @@ Gobuster did not seem to work on this site, which suggested there might be some 
 
 
 
-![1570845828840](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570845828840.png)
+![1570845828840](/images/2019/HTB-Writeup/1570845828840.png)
 
 
 
@@ -76,7 +76,7 @@ One of my favourite places to check out, whether a directory listing scan(gobust
 
 
 
-![1570845977522](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570845977522.png)
+![1570845977522](/images/2019/HTB-Writeup/1570845977522.png)
 
 
 
@@ -88,7 +88,7 @@ Going to `http://10.10.10.138/writeup` allows us to access the blog page. Nothin
 
 
 
-![1570846114879](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570846114879.png)
+![1570846114879](/images/2019/HTB-Writeup/1570846114879.png)
 
 
 
@@ -96,7 +96,7 @@ Searching for `CMS Made Simple` turned up a fair number of results on [exploit-d
 
 
 
-![1570846428759](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570846428759.png)
+![1570846428759](/images/2019/HTB-Writeup/1570846428759.png)
 
 
 
@@ -121,7 +121,7 @@ For the remainder, we can see what remains:
 
 
 
-![1570846944629](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570846944629.png)
+![1570846944629](/images/2019/HTB-Writeup/1570846944629.png)
 
 
 
@@ -139,7 +139,7 @@ Trying to run it shows instructions how to use it:
 
 
 
-![1570847484045](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570847484045.png)
+![1570847484045](/images/2019/HTB-Writeup/1570847484045.png)
 
 
 
@@ -168,7 +168,7 @@ We could try cracking it, but since it's salted we probably would not have any l
 
 
 
-![1570848003351](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570848003351.png)
+![1570848003351](/images/2019/HTB-Writeup/1570848003351.png)
 
 
 
@@ -182,7 +182,7 @@ In the initial nmap scan, we found out that SSH was open, so can try it there:
 
 
 
-![1570848206920](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570848206920.png)
+![1570848206920](/images/2019/HTB-Writeup/1570848206920.png)
 
 
 
@@ -219,7 +219,7 @@ First, let's upload `pspy` onto the target. We download a precompiled `pspy` bin
 
 
 
-![1570848583279](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570848583279.png)
+![1570848583279](/images/2019/HTB-Writeup/1570848583279.png)
 
 
 
@@ -233,7 +233,7 @@ We can then use `wget` to download the file onto the target. Don't forget to `cd
 
 
 
-![1570848822812](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570848822812.png)
+![1570848822812](/images/2019/HTB-Writeup/1570848822812.png)
 
 
 
@@ -247,7 +247,7 @@ We log in using a separate terminal again, and watch the pspy window:
 
 
 
-![1570849227313](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570849227313.png)
+![1570849227313](/images/2019/HTB-Writeup/1570849227313.png)
 
 
 
@@ -313,7 +313,7 @@ sh -c /usr/bin/env -i PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sb
 
 
 
-![1570849659100](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570849659100.png)
+![1570849659100](/images/2019/HTB-Writeup/1570849659100.png)
 
 
 
@@ -323,7 +323,7 @@ Now that we know we can have our own arbitrary code run as root, we can try to g
 
 
 
-![1570850385931](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570850385931.png)
+![1570850385931](/images/2019/HTB-Writeup/1570850385931.png)
 
 
 
@@ -337,7 +337,7 @@ We first edit `tcp_pty_backconnect.py` to configure our IP address, and then hos
 
 Editing the backconnect file:
 
-![1568724965720](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1568724965720.png)
+![1568724965720](/images/2019/HTB-Writeup/1568724965720.png)
 
 
 
@@ -351,7 +351,7 @@ We then transfer the file to `/tmp` directory(since it's usually world writable)
 
 
 
-![1570853415374](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570853415374.png)
+![1570853415374](/images/2019/HTB-Writeup/1570853415374.png)
 
 
 For your copy paste pleasure:
@@ -370,7 +370,7 @@ Then, open a new terminal window/tab and SSH back in with our credentials to tri
 
 
 
-![1570853559061](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Writeup/1570853559061.png)
+![1570853559061](/images/2019/HTB-Writeup/1570853559061.png)
 
 
 
