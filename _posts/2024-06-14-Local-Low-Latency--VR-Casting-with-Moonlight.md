@@ -248,7 +248,7 @@ For `Output Name`, it would be the monitor to display. You should be able to gue
 
 
 
-For completeness, this is how the entire output looks like and what you should look for:
+For completeness, this is how the entire output looks like, what you should look for and what the Sunshine config should look like after you're done:
 
 
 
@@ -256,7 +256,11 @@ For completeness, this is how the entire output looks like and what you should l
 
 
 
-Then save and apply to re-launch Sunshine with your new configuration.
+![SunshineConfig](/images/2024/Moonlight/sunshineconfig.png)
+
+
+
+Then `save` and `apply` to re-launch Sunshine with your new configuration.
 
 
 
@@ -298,7 +302,7 @@ If you need to get it back on a real monitor, `win or alt` + `tab`, select the B
 
 
 
-As you can see above, my average latency is 1+2.7+1.87ms, for a total of just below 6ms!
+As you can see above, my average latency is `1`+`2.7`+`1.87`ms, for a total of just below 6ms!
 
 ---
 

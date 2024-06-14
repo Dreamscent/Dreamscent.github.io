@@ -27,7 +27,7 @@ Recently I have had the opportunity to take the [SEC 660: Advanced Penetration T
 
 
 
-Before I go on, just bear in mind that I have been in the Cyber Security Industry for almost 6 years at the point of taking the course/exam, most of which were spent in the Penetration Testing and Red Teaming space. I also studied Forensics, and have been through the OSCE and about 60-70% of the OSED materials. So I can say I'm fairly comfortable with a decent chunk of the topics.
+Before I go on, just bear in mind that I have been in the Cyber Security Industry for almost 6 years at the point of taking the course/exam, most of which were spent in the Penetration Testing and Red Teaming space. I also studied Forensics, and have been through the OSCE and about 60-70% of the OSED materials. So I can say I was fairly familiar with a decent chunk of the topics before embarking on this journey.
 
 
 In this post, I'll share my experience with the course and exam. Uncensored, Au Naturel without sugarcoating. These are my personal opinions and does not reflect on the views of my peers or my employer.
@@ -50,6 +50,8 @@ The SANS SEC660 course is one of the more technically advanced courses by SANS, 
 
 
 
+
+
 As unfortunately there wasn't an opportunity for me to take the live course as there wasn't one scheduled near me, so I settled for the OnDemand version, which was fully online through recorded videos. With the course there were "Quizzes", which can be taken multiple times with mostly repeating questions and 2 Practice Tests(only 1 attempt each), which fairly closely mimic the Final GXPN exam in both format and difficulty.
 
 
@@ -69,6 +71,8 @@ For context, the "Index" when referring to SANS GIAC certifications is a self-wr
 | Book.Pg | Quickfind                       |
 | ------- | ------------------------------- |
 | 69.420  | PEB - Process Environment Block |
+
+
 
 
 
@@ -274,7 +278,17 @@ If we're being vendor agnostic, based on my personal experience, I would place i
 
 
 
-For the exam, I would say it is 55% how good your indexing and searching skills are, 35% how well you understand the materials, and 10% whether you have your lucky red underwear on when guessing that few questions which look totally alien to you.
+For the exam, I would say it is 55% how good your indexing and searching skills are, 35% how well you understand the materials, and 10% whether you have your lucky red underwear on when guessing that few questions which look totally alien to you. I wouldn't say that a SANS GXPN cert holder is good at binary exploitation just because he/she indexed a couple of books well and got some MCQ questions correct.
+
+
+
+But that is just my 2 cents worth. The course is good, but the certification is meh in my opinion.
+
+
+
+Until next time!
+
+J
 
 
 
