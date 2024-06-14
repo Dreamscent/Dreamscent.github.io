@@ -298,7 +298,7 @@ If you need to get it back on a real monitor, `win or alt` + `tab`, select the B
 
 
 
-![MoonLatency](/images/2024/moonlight/moonlatency.jpg)
+![MoonLatency](/images/2024/Moonlight/moonlatency.jpg)
 
 
 
