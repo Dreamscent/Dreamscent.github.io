@@ -3,7 +3,7 @@ layout:     post
 title:      "Local Low Latency VR Casting with Moonlight"
 date:       2024-06-13 22:43:00
 author:     J
-summary:    Streaming with low latency!
+summary:    VR Streaming with low latency!
 categories: Misc
 thumbnail:  check
 tags:
@@ -243,7 +243,7 @@ Then save and apply to re-launch Sunshine with your new configuration.
 
 
 
-** Note: The Output Name does seem to change once in a very very long time. If you're seeing an error sometime in the future when connecting in, this could be the issue.
+** Note: The Output Name does seem to change once in a while. If you're seeing an error sometime in the future when connecting in, this is likely the issue.
 
 
 
@@ -276,6 +276,12 @@ Run Beat Saber on your headset, then go to your PC and focus the game window. Yo
 If you need to get it back on a real monitor, `win or alt` + `tab`, select the BS window and repeat the previous keys to move it back.
 
 
+
+![](../images/2024/moonlight/moonlatency.jpg)
+
+
+
+As you can see above, my average latency is 1+2.7+1.87ms, for a total of just below 6ms!
 
 ---
 
