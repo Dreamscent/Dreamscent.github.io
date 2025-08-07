@@ -13,8 +13,6 @@ tags:
 
 
 
-## Work in progress - Come back later to read the full story
-
 So as we may know, all drivers to Malaysia now require a Vehicle Entry Permit ("VEP") to enter the country. The VEP I refer to here is an ugly tamper-proof RFID tag to be affixed on a vehicle. The Malaysian Transport Department ("JPJ") has appointed a shithole of a company "TCSENS" to handle all VEP matters.
 
 
@@ -47,7 +45,7 @@ So anyway, the VEP application requests a some stuff(that to be honest is comple
 
 After a month of trying to get my VEP approved, I finally got it and made the payment for them to deliver it on 25 Aug 2024.
 
-![vepreceipt](/images/2025/VEP/vepreceipt.jpg)
+![vepreceipt](/images/2025/VEP/vepreceipt.png)
 
 
 
@@ -89,7 +87,7 @@ I went to their website and attempted to pull out a Proof of Delivery.
 
 
 
-Guess what, the thing does not work. Every permutation I tried did not go through. Ok, so no proof of delivery here. Let's contact them.
+Surprise! The thing does not work. Every permutation I tried did not go through. Ok, so no proof of delivery here. Let's contact them.
 
 
 
@@ -105,6 +103,8 @@ What? Did the proof of delivery not get uploaded to your shitty system somewhere
 
 1. The contractor doesn't have a proof of delivery, and somehow claims something was delivered. Mind you this is a **Tracked Parcel**. I don't know about you, but tracked parcels require Proofs of Delivery, especially important items like an RFID tag. A picture is needed if you left it at the door(but this should not be allowed for such an important item in this case), or someone has to sign for it.
 2. Why doesn't City Link have the picture? If you're paying an external contractor you should have verified that the job is done, no?
+3. Again, if you have a system for Proof of Delivery, why was it not captured?
+4. Even my online shopping for some cheapo item with free (or $1.99) delivery, I get a WhatsApp image sent to my phone when they drop it at my door. And City Link has the audacity to charge this much?
 
 
 
@@ -116,7 +116,7 @@ So I emailed TCSENS, trying to resolve the situation. This is their response.
 
 
 
-What? I need the serial number of the tag that never came to report issue. Awesome. Clearly someone didn't read the email.
+What? I need the serial number of the tag that never came, to click this mythical "report issue". Awesome. Clearly someone didn't read the email.
 
 
 
@@ -154,7 +154,7 @@ But later on, every single email was met with this template response:
 
 
 
-And interestingly enough, after 1 year into this ordeal, City Link seems to have reverted their tracking system to not show it as delivered.
+And interestingly enough, after **almost 1 year** into this ordeal, City Link seems to have reverted their tracking system to not show it as delivered.
 
 ![reverted1](/images/2025/VEP/reverted1.png)
 
@@ -162,3 +162,6 @@ And interestingly enough, after 1 year into this ordeal, City Link seems to have
 
 
 
+
+
+Well, if this ever gets resolved I'll update this post about it.
