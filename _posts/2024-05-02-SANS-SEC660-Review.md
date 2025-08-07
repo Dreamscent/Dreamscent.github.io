@@ -15,10 +15,6 @@ tags:
 
 
 
-# THIS IS STILL A DRAFT AND IS SUBJECT TO EDITS, PLEASE COME BACK LATER. BUT IF YOU REALLY WANT TO READ,  JUST KEEP IN MIND THAT THIS IS NOT THE FINAL POST
-
-
-
 It's been a long time since I wrote about a new certification. After a 2 year hiatus, I guess I'm back!
 
 

@@ -5,7 +5,7 @@ date:       2024-06-13 22:43:00
 author:     J
 summary:    VR Streaming with low latency!
 categories: Misc
-thumbnail:  check
+thumbnail:  tv
 tags:
  - VR
  - Gaming
@@ -302,7 +302,7 @@ If you need to get it back on a real monitor, `win or alt` + `tab`, select the B
 
 
 
-As you can see above, my average latency is `1`+`2.7`+`1.87`ms, for a total of just below 6ms!
+As you can see above, my average latency is `1`+`2.7`+`1.87`ms, for a total of just below `6ms`!
 
 ---
 
