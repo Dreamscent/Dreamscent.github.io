@@ -33,5 +33,5 @@ As of time of writing, it has been approximately 1 year and I still have not rec
 
 Before we start, let's look at a poster from what I suspect is from their hiring campaign when looking for staff to fill the roles in this "supply chain". This will give you a sense of better sense of what I have to deal with.
 
-![wewantyou](/images/2025/VEP/wewantyou.png)
+![wewantyou](/images/2025/VEP/wewantyou.jpg)
 
