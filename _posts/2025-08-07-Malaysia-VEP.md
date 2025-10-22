@@ -162,6 +162,42 @@ And interestingly enough, after **almost 1 year** into this ordeal, City Link se
 
 
 
+I ended up following up again with Citi Link over a few weeks, not being overly annoyingly pushy, with at least 1 week in between for the to reply. Until I got more peeved.
+
+![shittylinknoreply](/images/2025/VEP/shittylinknoreply.png)
+
+
+
+Finally after the semi aggresive email I sent, This person who appears to be their manager replied. "5 months data storage"? Do you even read? I first reached out to you within a month or two from your so called delivery date about no delivery and you give me this crap now after pushing everything to your colleague.
+
+
+
+![khadnoread](/images/2025/VEP/khadnoread.png)
+
+
+
+Then this person finally took some semblance of responsibility for the missing VEP.
+
+
+
+![julreply](/images/2025/VEP/julreply.png)
+
+
+
+Then Yul then finally replied about this with a satisfactory response.
+
+![yulreply](/images/2025/VEP/yulreply.png)
+
+
+
+He confirmed my mailing address in another email, then proceeded to fucking ghost me again for another 2 months.
+
+
+
+![yulghost](/images/2025/VEP/yulghost.png)
+
+
+
 
 
 Well, if this ever gets resolved I'll update this post about it.
