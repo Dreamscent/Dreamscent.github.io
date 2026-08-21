@@ -201,3 +201,7 @@ He confirmed my mailing address in another email, then proceeded to fucking ghos
 
 
 Well, if this ever gets resolved I'll update this post about it.
+
+
+
+EDIT: They did finally agree to resend a new tag, this time with a more competent courier company, and it got activated very quickly. The fiesta finally ended 17 November 2025. I won't be updating this post further because I'm tired and jaded. But fuck it was a long drawn out journey.

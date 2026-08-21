@@ -53,7 +53,7 @@ There is also a team interface, where you can see the progress of your teammates
 
 
 
-![dashboard][/images/2026/ROPS-RT1/dashboard.png)]
+![elephant](/images/2026/ROPS-RT1/dashboard.png)
 
 
 
@@ -132,7 +132,3 @@ All in all, it was a nice experience. The team has definitely put a ton of effor
 [1]: https://www.roguelabs.io/rops-rt1
 [2]: https://www.linkedin.com/in/nick-downer/
 [3]: https://www.cobaltstrike.com/
-
-
-
-1 https://www.zeropointsecurity.co.uk/ 
